@@ -1436,6 +1436,50 @@ input[type="radio"] + label:before {
     border-radius: 0;
     padding: 0; }
 
+/* Feature Icon */
+.feature-icon {
+  display: inline-block;
+  position: relative;
+  padding-bottom: 5em;
+  margin-bottom: 2.75em;
+  cursor: default; }
+  .feature-icon .icon {
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    font-size: 4.5em;
+    border-radius: 100%;
+    box-shadow: inset 0 0 0 1px #666;
+    color: #666;
+    line-height: 2.1em; }
+  .feature-icon:before {
+    content: '';
+    background: #666;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-left: -0.325em;
+    width: 0.65em;
+    height: 0.65em;
+    display: block;
+    border-radius: 100%; }
+  .feature-icon:after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0.65em;
+    width: 1px;
+    height: 4.35em;
+    background: #666;
+    margin-left: -0.5px; }
+
+.dark .feature-icon .icon {
+  background: rgba(255, 255, 255, 0.15);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.5);
+  color: #fff; }
+.dark .feature-icon:before, .dark .feature-icon:after {
+  background: rgba(255, 255, 255, 0.5); }
+
 /* Icon */
 .icon {
   text-decoration: none;
@@ -1532,21 +1576,26 @@ ul {
         border-top: 0;
         padding-top: 0; }
   ul.icons {
-    cursor: default;
-    list-style: none;
-    padding-left: 0; }
+    cursor: default; }
     ul.icons li {
       display: inline-block;
-      padding: 0 1em 0 0; }
-      ul.icons li:last-child {
-        padding-right: 0 !important; }
-    ul.icons.major {
-      padding: 1em 0; }
-      ul.icons.major li {
-        padding-right: 3.5em; }
-        @media screen and (max-width: 736px) {
-          ul.icons.major li {
-            padding: 0 1em !important; } }
+      padding-left: 0.75em; }
+    ul.icons a {
+      -moz-transition: background-color 0.25s ease-in-out;
+      -webkit-transition: background-color 0.25s ease-in-out;
+      -ms-transition: background-color 0.25s ease-in-out;
+      transition: background-color 0.25s ease-in-out;
+      display: inline-block;
+      width: 2.75em;
+      height: 2.75em;
+      line-height: 2.8em;
+      text-align: center;
+      border: 0;
+      box-shadow: inset 0 0 0 1px #e6e6e6;
+      border-radius: 100%;
+      color: #aaa; }
+      ul.icons a:hover {
+        background: rgba(0, 0, 0, 0.025); }
   ul.actions {
     cursor: default;
     list-style: none;

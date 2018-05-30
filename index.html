@@ -7,9 +7,22 @@ layout: landing
 	<div class="inner">
 		<h2>{{ site.title }}</h2>
 		<p>{{ site.description | markdownify }}</p>
-		<ul class="actions">
+		<!-- <ul class="actions">
 			<li><a href="#" class="button special">Activate</a></li>
-		</ul>
+		</ul> -->
+		<ul class="icons">
+	    {% for socloc in site.social %}
+	    {% if socloc[1] %}
+	    {% if socloc[0] == 'email' %}
+	    <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-envelope-o"
+	           ><span class="label">E-mail</span></a></li>
+	    {% else %}
+	    <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }}"
+	           ><span class="label">{{ socloc[0] }}</span></a></li>
+	    {% endif %}
+	    {% endif %}
+	    {% endfor %}
+	  </ul>
 	</div>
 	<a href="#one" class="more scrolly">More</a>
 </section>
