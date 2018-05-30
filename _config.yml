@@ -13,14 +13,15 @@ email: shane.mileham@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "shanemileham.github.io" # the base hostname & protocol for your site
 social:
-  #twitter: https://twitter.com/<username>
-  github: https://github.com/shanemileham
-  linkedin-square: https://linkedin.com/in/shanemileham
   facebook-official: https://facebook.com/shanemileham
+  linkedin-square: https://linkedin.com/in/shanemileham
+  instagram: https://www.instagram.com/shanemileham/
+  angellist: https://angel.co/shanemileham
+  github: https://github.com/shanemileham
+  #twitter: https://twitter.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+shanemileham
   #email: /contact/
   #flickr:
-  #instagram:
   #youtube-square:
   #spotify:
   #stack-overflow:
@@ -32,7 +33,6 @@ social:
   #digg:
   #soundcloud:
   #deviantart:
-  #angellist:
   #tumblr-square:
   #stackexchange:
   #weibo:
