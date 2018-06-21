@@ -7,11 +7,11 @@ description: |
   Coach |
   Lifestyle Engineer |
   Athlete
-owner: Shane Mileham LLC
+owner: Shane Mileham
 first_published: 2014 # if migrating another site, the year of your first publish
 email: shane.mileham@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "shanemileham.github.io" # the base hostname & protocol for your site
+url: "shanemileham.com" # the base hostname & protocol for your site
 social:
   facebook-official: https://facebook.com/shanemileham
   linkedin-square: https://linkedin.com/in/shanemileham
