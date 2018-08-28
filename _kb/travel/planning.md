@@ -11,6 +11,7 @@ title: Travel Planning
     - [West Coast Swing](https://www.worldsdc.com/events/)
   - [Nomad List](https://nomadlist.com/)
   - [Scott's Cheap Flights](https://scottscheapflights.com/)
+  - [Average Monthly Rent by city](https://i.redd.it/39f2re4pyi711.png)
   - [Travel.gov](https://travel.state.gov)
     - Visa requirements
     - Health and safety info
@@ -120,6 +121,8 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
 - https://www.thebucketlistlifestyle.com/post/tech-and-gear
 - https://remoteyear.com/
 - https://matadornetwork.com/
+- https://www.reddit.com/r/digitalnomad/comments/7oxwx0/1_year_in_my_dn_experience/
+- https://instabridge.com/en/
 
 ## CHECKLIST (Copy into Asana)
 - People:
