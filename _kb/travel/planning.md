@@ -127,6 +127,9 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
 ## CHECKLIST (Copy into Asana)
 - People:
   - Message friends that I'm traveling
+- Run:
+- TODO:
+- ---:
 - Research:
   - Decide on country/city
   - Decide what I want to be near
@@ -149,5 +152,3 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
   - Eventbrite
   - Facebook Events
   - Meetup
-- Run:
-- TODO:
