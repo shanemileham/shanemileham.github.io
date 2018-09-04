@@ -56,6 +56,7 @@ title: Travel Planning
 - Print out Visa and have electronic copy
 - Send receipts for business if applicable
 - Put it all on your calendar
+- Notify bank of travel plans
 - Figure out required transportation
   - Public transportation
   - Uber / Lyft
