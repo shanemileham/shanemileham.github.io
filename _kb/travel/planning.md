@@ -130,6 +130,7 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
   - Message friends that I'm traveling
 - Run:
 - TODO:
+  - Mark places on google maps
 - ---:
 - Research:
   - Decide on country/city
