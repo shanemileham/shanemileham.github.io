@@ -132,10 +132,9 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
 - Run:
 - TODO:
   - Mark places on google maps
-- ---:
-- Research:
-  - Decide on country/city
-  - Decide what I want to be near
+- Logistics:
+  - Decide what I want to be near (country, city, event)
+  - Transportation there
   - Find a place to live
 - Social:
   - First degree connections
