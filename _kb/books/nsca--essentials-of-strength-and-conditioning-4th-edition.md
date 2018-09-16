@@ -35,7 +35,7 @@ Skeleton
 - Muscle cells (fibers) = long cylindricals cells 50-100um in diameter, containing many nuclei
 - Fasciculi = muscle fiber bundles consisting of up to 150 fibers
 
-![Neiromuscular Junction](https://i.ytimg.com/vi/DxShix3Mqow/hqdefault.jpg)
+![Neuromuscular Junction](https://i.ytimg.com/vi/DxShix3Mqow/hqdefault.jpg)
 - Each muscle cell has only one neuromuscular junction (although a single motor neuron innervates many muscle fibers)
 
 ![Motor Unit](http://images.tutorvista.com/content/nervous-coordination/neuron-structure.jpeg)
@@ -93,6 +93,75 @@ Process
 - ACH diffuses across neuromuscular junction
 - Action potential is generated along the sarcolemma
 
+TODO note rest of chapter
 
+TODO LINK quizlet cards for this chapter
 
-LINK quizlet cards for this chapter
+## Chapter 2 - Biomechanics of Resistance Exercise
+TODO note rest of chapter
+
+## Chapter 3 - Bioenergetics of Exercise and Training
+TODO note rest of chapter
+
+## Chapter 4 - Endocrine Responses to Resistance Exercise
+TODO note rest of chapter
+
+## Chapter 5 - Adaptations to Anaerobic Training Programs
+TODO note rest of chapter
+
+## Chapter 6 - Adaptations to Aerobic Endurance Training
+TODO note rest of chapter
+
+## Chapter 7 - Age- and Sex-Related Differences and Their Implications for Resistance Exercise
+TODO note rest of chapter
+
+## Chapter 8 - Psychology of Athletic Preparation and Performance
+TODO note rest of chapter
+
+## Chapter 9 - Basic Nutrition Factors for Health
+TODO note rest of chapter
+
+## Chapter 10 - Nutrition Strategies for Maximizing Performance
+TODO note rest of chapter
+
+## Chapter 11 - Performance Enhancing Substances and Methods
+TODO note rest of chapter
+
+## Chapter 12 - Principles of Test Selection and Administration
+TODO note rest of chapter
+
+## Chapter 13 - Administration, Scoring, and Interpretation of Selected Tests
+TODO note rest of chapter
+
+## Chapter 14 - Warm-Up and Flexibility Training
+TODO note rest of chapter
+
+## Chapter 15 - Exercise Technique for Free Weight and Machine Training
+TODO note rest of chapter
+
+## Chapter 16 - Exercise Technique for Alternative Modes and Nontraditional Implement Training
+TODO note rest of chapter
+
+## Chapter 17 - Program Design for Resistance Training
+TODO note rest of chapter
+
+## Chapter 18 - Program Design and Technique for Plyometric Training
+TODO note rest of chapter
+
+## Chapter 19 - Program Design and Technique for Speed and Agility Training
+TODO note rest of chapter
+
+## Chapter 20 - Program Design and Technique for Aerobic Endurance Training
+TODO note rest of chapter
+
+## Chapter 21 - Periodization
+TODO note rest of chapter
+
+## Chapter 22 - Rehabilitation and Reconditioning
+TODO note rest of chapter
+
+## Chapter 23 - Facility Design, Layout, and Organization
+TODO note rest of chapter
+
+## Chapter 24 - Facility Policies, Procedures, and Legal Issues
+TODO note rest of chapter
