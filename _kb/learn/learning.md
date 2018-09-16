@@ -124,6 +124,17 @@ Talk to the person you know who is likely to know X best. Ask them who they know
   - Analysis
   - Traditions learning
 
+Stages
+- Problem identification
+- What information will be needed?
+- Where would I need to get that information?
+- Data source decision
+- Data gathering and validation (plus validation techniques) (logical parsing)
+  - Knowing how to hack scientific journals
+- Data structuring (dependencies etc)
+- Memorization (traditional models)
+- Use and behavior modifications (belief updates and habits)
+
 
 ## How to take notes
 Note - basically highlights
