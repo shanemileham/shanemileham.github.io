@@ -119,6 +119,13 @@ TODO note rest of chapter
 TODO note rest of chapter
 
 ## Chapter 9 - Basic Nutrition Factors for Health
+- Each athlete's nutrition needs depend on many factors
+- Nutrition requirements can vary tremendously between athletes
+
+### Role of Sports Nutrition Professionals
+- Team physical = oversees the athlete's medical care
+- Sports dietitian = provides individualized dietary advice (also a registered dietitian nutritionist)
+
 TODO note rest of chapter
 
 ## Chapter 10 - Nutrition Strategies for Maximizing Performance
