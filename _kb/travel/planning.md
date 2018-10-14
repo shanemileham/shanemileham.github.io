@@ -33,16 +33,16 @@ title: Travel Planning
 - Find a place to live
   - Friends who live there
   - Co-living spaces
+  - [Airbnb](https://www.airbnb.com/)
   - Hostels/Hostels ([differences](http://www.thisisinsider.com/expedia-tripadvisor-priceline-travel-booking-site-comparison/#travelocity-6))
+    - [AllTheRooms](https://www.alltherooms.com/)
     - [Expedia](https://www.expedia.com/)
     - [Booking](https://www.booking.com/)
     - [TripAdvisor](https://www.tripadvisor.com/)
     - [Hotwire](https://www.hotwire.com/)
     - [Priceline](https://www.priceline.com/)
     - [Travelocity](https://www.travelocity.com/)
-    - [AllTheRooms](https://www.alltherooms.com/)
   - [Couchsurfing](https://www.couchsurfing.com/)
-  - [Airbnb](https://www.airbnb.com/)
   - Dog sitting via [Rover](https://www.rover.com/app/)
 
 ### Finalize
@@ -129,12 +129,11 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
 ## CHECKLIST (Copy into Asana)
 - People:
   - Message friends that I'm traveling
-- Run:
 - TODO:
   - Mark places on google maps
 - Logistics:
-  - Decide what I want to be near (country, city, event)
   - Transportation there
+  - Decide what I want to be near (country, city, event)
   - Find a place to live
 - Social:
   - First degree connections
@@ -154,3 +153,4 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
   - Eventbrite
   - Facebook Events
   - Meetup
+- Run:
