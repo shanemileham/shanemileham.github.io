@@ -12,6 +12,11 @@ title: Conversation Questions
 - Why?
 - When was the last time you...?
 
+< statements >
+< writing prompts >
+
+< So you can organize by what information you want to obtain (psych profile) or by what feeling it evokes (inspiration, pride, fear/etc, neutral) >
+
 ## Preferences (e.g. would you rather)
   - Given the choice of anyone in the world, whom would you want as a dinner guest?
   - Would you like to be famous? In what way?
