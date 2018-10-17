@@ -13,3 +13,9 @@ https://www.londonboxoffice.co.uk/musicals
 
 
 https://skygarden.london/
+
+
+Entrepreneurial groups:
+- Tech stars
+- Seed camp
+- Entrepreneurs first
