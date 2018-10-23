@@ -4,6 +4,10 @@ title: Conversation Questions
 
 {% include toc %}
 
+Note that statements are a great way to spark conversation as well.
+
+<!-- [Common, Follow Up] -->
+
 ## Common starting points
 - Where are you from? (location)
 - Who do you know here? (connections)
@@ -12,25 +16,10 @@ title: Conversation Questions
 - Why?
 - When was the last time you...?
 
-< statements >
-< writing prompts >
 
 < So you can organize by what information you want to obtain (psych profile) or by what feeling it evokes (inspiration, pride, fear/etc, neutral) >
 
-## Preferences (e.g. would you rather)
-  - Given the choice of anyone in the world, whom would you want as a dinner guest?
-  - Would you like to be famous? In what way?
-
-## Pleasures
-- What have you always enjoyed doing?
-- What did you play as a child?
-- What are your favorite 5 things in the world?
-- What are my interests? If you had nothing else to do, what would you love to spend your time doing?
-- Think about a time when you were in the “flow” state. What were you doing?
-- What makes you lose track of time?
-- If money was not an issue, how would you spend your time?
-
-
+<!-- [Stories, Desires, Aversion, Pleasures, Pains, Preferences] -->
 ## Stories
 - When was the last time you had a life-changing conversation? What was it?
 - When you first started considering a career, what was your initial thought?
@@ -43,101 +32,82 @@ title: Conversation Questions
 - What is the defining moment of your life and how did it impact you?
 - What risk are you happy that you took?
 - What can you do that you could not do a year ago?
+- When did you last sing to yourself? To someone else?
+- Do you have a secret hunch about how you will die?
+- If you could change anything about the way you were raised, what would it be?
+- What's your life story? (take 4 min)
+- What is the greatest accomplishment of your life?
+- What is your most treasured memory?
+- What is your most terrible memory?
+- How do you feel about your relationship with your mother/father?
+- What is one of the kindest things someone has ever done for you?
+- What's your most embarrassing moment?
+- When did you last cry in front of another person? By yourself?
+- If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?
+- Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?
+- Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.
 
-## Hopes/Dreams/Drives
+## Desires (Hopes/Dreams/Ambitions)
 - What was your childhood dream?
 - What is your perfect dat?
 - What do you dream of achieving one day?
 - What challenge do you want to overcome?
 - What does success look like to you?
 - What are you working towards that you could use help with?
+- For what in your life do you feel most grateful?
+- If you could wake up tomorrow having gained any one quality or ability, what would it be?
+- Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?
+- "On a scale of 1 to 10, how happy are you with your life?" "What would make it a 10?"
+- If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?
+- Complete this sentence: “I wish I had someone with whom I could share ... “
+- What are you passionate about and want to spend more time doing?
 
 
-## Beliefs
+## Aversions (Fears)
+- Of all the people in your family, whose death would you find most disturbing? Why?
+
+## Pleasures
+- What have you always enjoyed doing?
+- What did you play as a child?
+- What are your favorite 5 things in the world?
+- What are my interests? If you had nothing else to do, what would you love to spend your time doing?
+- Think about a time when you were in the “flow” state. What were you doing?
+- What makes you lose track of time?
+- If money was not an issue, how would you spend your time?
+- What would constitute a “perfect” day for you?
+
+## Pains
+- What moves you to tears or gives you goosebumps?
+
+## Preferences / Meaning / Beliefs / Opinion
+- What is your favorite thing in the world?
+- What is the best question anyone has ever asked you? ...and how did you answer?
+- What is most important to you?
+- Given the choice of anyone in the world, whom would you want as a dinner guest?
+- Would you like to be famous? In what way?
+- If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?
+- What do you value most in a friendship?
+- What does friendship mean to you?
 - Are heroes dead? What does it mean to be a hero to you?
 - What does this world need more of?
 - Who are your heroes?
 - What have you witnessed that has strengthened your faith in humanity?
 - If you could run your own country, what would it be like?
 - How are you making a difference in this world?
-
-## Fears
-
-
-## Love
-- What is one of the kindest things someone has ever done for you?
 - How do you show love to others?
 - How do you show love to yourself?
-- What are you passionate about and want to spend more time doing?
-- What random act of kindness could you perform right now?
-
-## Other
-- What moves you to tears or gives you goosebumps?
-- What is most important to you?
-- What question would you ask a fortune teller?
-
-
-
-
-Possible categories
-- Growth
-- Divide by past/future
 
 
 ## INPUT
-
-Set I
-1. Given the choice of anyone in the world, whom would you want as a dinner guest?2. Would you like to be famous? In what way?
-3. Before making a telephone call, do you ever rehearse what you are going to say? Why?
-4. What would constitute a “perfect” day for you?
-5. When did you last sing to yourself? To someone else?
-6. If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?
-7. Do you have a secret hunch about how you will die?
-8. Name three things you and your partner appear to have in common.
-9. For what in your life do you feel most grateful?
-10. If you could change anything about the way you were raised, what would it be?
-11. Take four minutes and tell your partner your life story in as much detail as possible.
-12. If you could wake up tomorrow having gained any one quality or ability, what would it be?
-
-Set II
-13. If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?
-14. Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?
-15. What is the greatest accomplishment of your life?
-16. What do you value most in a friendship?
-17. What is your most treasured memory?
-18. What is your most terrible memory?
-19. If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?
-20. What does friendship mean to you?
-21. What roles do love and affection play in your life?
-22. Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.
-23. How close and warm is your family? Do you feel your childhood was happier than most other people’s?
-24. How do you feel about your relationship with your mother?
-
-Set III
-25. Make three true “we” statements each. For instance, “We are both in this room feeling ... “
-26. Complete this sentence: “I wish I had someone with whom I could share ... “
-27. If you were going to become a close friend with your partner, please share what would be important for him or her to know.
-28. Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.
-29. Share with your partner an embarrassing moment in your life.
-30. When did you last cry in front of another person? By yourself?
-31. Tell your partner something that you like about them already.
-32. What, if anything, is too serious to be joked about?
-33. If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?
-34. Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?
-35. Of all the people in your family, whose death would you find most disturbing? Why?
-36. Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.
-
-
 
 Important Things Learned
 "What's the most unexpected thing you've learned along the way?"
 "If you could call yourself five years ago and had 30 seconds, what would you say?"
 What is the best piece of advice you have been given?
 What is the first moment you remember in your Life?
-What is the best question anyone has ever asked you? ...and how did you answer?
 
 How You Would Spend Your Time
-"On a scale of 1 to 10, how happy are you with your life?" Then, after I answered, I was asked, "What would make it a 10?"
+
 "How will you make this world a better place than when you came into it?"
 "When you die, what do you want to be remembered for?"
 What would you do with your time if you could afford to quit your job?
@@ -289,6 +259,7 @@ What’s the toughest challenge you are facing right now?
 What is your dark side that you don’t like to reveal?
 What ambition are you most embarrassed about?
 
+<writing prompts>
 
 - [ ] https://conversationstartersworld.com/250-conversation-starters/
 - [ ] https://conversationstartersworld.com/good-questions-to-ask/
