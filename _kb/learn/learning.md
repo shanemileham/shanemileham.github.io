@@ -140,3 +140,45 @@ Stages
 Note - basically highlights
 Compress - discard highlights that are redundant or better explained with other highlights
 Synthesize - understand the relation between the concepts and restructuring as if you're about to teach it. if concept B depends on concept A, concept A must come before concept B. Feel free to use any helpful visualizations/charts/diagrams during this stage.
+
+## Other input
+Process learners are better than learners who say “I’m smart” vs hard work
+
+Focus on endgame, then midgame
+
+MY NOTES ON LEARNING
+Three types
+Definitions (=) / Properties
+Associations (between truth statements)
+Problem solving (given a KB)
+Example of a bad sentence
+For the aerobic athlete, caffeine is thought to prolong aerobic endurance exercise. The mechanisms that have been proposed to cause this effect involve an increase in fat oxidation through the mobilization of free fatty acids from adipose tissue or intramuscular fat stores
+
+Belief experience
+Belief updating
+Preprocessing
+Logic
+
+Note a difference between skill acquisition and knowledge acquisition
+
+Also articles:
+https://www.scotthyoung.com/blog/2016/07/28/ultralearn-diy-1/
+https://www.scotthyoung.com/blog/2016/08/02/ultralearning-diy-2/
+
+Coursera Learning How To Learn / Mind for Numbers
+
+I was never much interested in speed reading - anyone can read a lot of books, but the truly intelligent can do a lot with limited information. I found that studying rationality and logic actually sped up my comprehension tremendously. As I read, I only pay attention to phrases that differ from my previous understanding of the world (i.e. beliefs). Phrases such as “X may contribute to Y" are meaningless. “X leads to Y” is meaningless without a percentage and a linked study. “X causes Y” is important and requires evidence. “X is Y” is vitally important, but is equally important to criticize to make sure you’re getting the correct definition. All other logical relationships “X is a subset/superset of Y” are useful too because you can apply information from one to the other.
+
+As a whole, reading for information consists of imparting anticipatory beliefs upon the reader with the corresponding evidence (see http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/). Anything less than that is not enough to alter beliefs and is therefore not “useful”.
+
+So when reading, I only look for definitions and logical relationships and probability relationships (and maybe a few others I’m forgetting). Everything else is fluff.
+
+
+Do I need this information?
+How does this information fit together in a visual model?
+What is the smallest amount of information (Premises) I need to create the model?
+Do I know any similar information that can help me understand the model?
+How does this model flow in a logical form from the premises?
+Practice recreating the model (Decompression)
+
+https://journal.thriveglobal.com/how-to-learn-in-2-days-what-normally-takes-6-months-af9a1556f66e?source=userActivityShare-f1b483af28d5-1498233143
