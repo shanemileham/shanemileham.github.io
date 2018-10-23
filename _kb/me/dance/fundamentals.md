@@ -20,6 +20,7 @@ Ways to pre lead
 - Speed
 - Body movement
 
+The purpose of dancing as a man (lead) is to make the woman look and feel amazing. To understand her body and show it off to it's maximum potential and make it feel incredible for her. To create connection while doing so.
 
 ## Alina
 Know where my follow is in space, where she's turning, give her grounding from above, place myself where I need to catch her if she's turning
