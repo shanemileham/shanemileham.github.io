@@ -6,3 +6,4 @@ title: Management
 
 ## Input
 - https://rework.withgoogle.com/guides/
+- What do top managers believe?
