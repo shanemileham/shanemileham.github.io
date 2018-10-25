@@ -182,3 +182,10 @@ How does this model flow in a logical form from the premises?
 Practice recreating the model (Decompression)
 
 https://journal.thriveglobal.com/how-to-learn-in-2-days-what-normally-takes-6-months-af9a1556f66e?source=userActivityShare-f1b483af28d5-1498233143
+
+KB beeiefs to actions. If you want actions, change beliefs. Belief update systems?
+Belief update TR
+Also beliefs follow Experiences
+Also habits help create experiences which will reinforce beliefs
+
+Understand andbagree with belief theoretically then reinforce with experience
