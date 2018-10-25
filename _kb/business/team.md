@@ -16,4 +16,4 @@ The data also reveal, at a higher level, that successful teams share several def
 
 ## Input
 - https://hbr.org/2012/04/the-new-science-of-building-great-teams
-- <Google Project Aristotle>
+- https://rework.withgoogle.com/print/guides/5721312655835136/
