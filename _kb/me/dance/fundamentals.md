@@ -63,3 +63,5 @@ Can lateral by turning their arms in to create a better frame if needed
 
 frame with extension and compression.
 light touch for elongation, firm for resistance and counterbalancing
+
+twist hand
