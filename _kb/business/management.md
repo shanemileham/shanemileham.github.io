@@ -2,6 +2,12 @@
 title: Management
 ---
 
+- have time for your people
+- talk to all your people
+- learn their problems, show you care
+- take notes
+- do something concrete about it
+
 ## Resources
 
 ## Input
