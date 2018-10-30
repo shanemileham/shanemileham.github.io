@@ -3,9 +3,17 @@ title: Emotions
 ---
 
 ## What emotions are and why they're useful
+Emotions = Signals that give important information about our current state that can be used to seek pleasure, avoid pain, and stay healthy.
+
+Often these motivate us to act in a way that helps us reach a reward or saves us from harm. Others, however, such as apathy, cue us that our body is reticent to act because we need to recover.
+
+
+
+
+
 TODO (synthesize Input below)
 
-There are no "good" and "bad" emotions - just emotions we desire to experience, and ones we don't. Typically the ones we desire to experience are the ones we feel when everything is already going well.
+There are no "good" and "bad" emotions - just emotions we desire to experience, and ones we don't. Typically the ones we desire to experience are the ones we feel when everything is already going well. However, all emotions, especially the "negative" ones, give us important information regarding how to act to improve our quality of life.
 
 Emotions rise and fall
 This too shall pass. Everything will get better and get worse.
@@ -26,21 +34,9 @@ What to do with different emotions; examples:
 
 ## Input
 
-Emotions are signals sent by our subconscious mind that motivate us to perform an action which either helps us to attain a reward or makes us avoid something that can potentially harm our well-being.
-
-Simply put, our subconscious mind communicates with us using the language of emotions so that we may be able to seek pleasure, avoid pain and maintain our well-being.
-
-
-
 Nothing is positive or negative in and of itself. We call something 'positive' if it benefits us and 'negative' because it harms us. Strictly speaking, there's no negative emotion because all emotions motivate us to do actions that lead to a potential gain, whether conscious or unconscious, perceived or real.
 
 
-
-It's funny how people call fear a negative emotion when it prevents them from approaching strangers and consider it as something positive if it helps them run away from a chasing bear.
-
-
-
-But why is it so?
 
 Why do positive emotions feel good and negative ones feel bad?
 
