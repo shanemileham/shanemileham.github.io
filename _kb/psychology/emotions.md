@@ -15,10 +15,15 @@ TODO (synthesize Input below)
 
 There are no "good" and "bad" emotions - just emotions we desire to experience, and ones we don't. Typically the ones we desire to experience are the ones we feel when everything is already going well. However, all emotions, especially the "negative" ones, give us important information regarding how to act to improve our quality of life.
 
+Nothing to be ashamed of
+
+## How to change your emotional state
+
 Emotions rise and fall
 This too shall pass. Everything will get better and get worse.
 
-Nothing to be ashamed of
+Emotion follows state. State can follow action. So you can change your emotions through action.
+
 
 
 ## Input
@@ -75,8 +80,3 @@ If A thinks that we should take care of our environment then most probably the f
 It's all a game of beliefs, the thoughts that arise from those beliefs and consequently the way in which we interpret an incident. Some of these beliefs are genetically programmed into our psyche (e.g. fear of falling) while others are learned during our past life experiences (e.g. people can't be trusted).
 
 Once you develop enough awareness, then you’ll be able to carefully observe the thoughts that cross your mind when you experience certain events and with practice, you’ll come to know exactly what causes your emotional state to change.
-
-Emotions exist for a reason. They're trying to tell us something.
-Every emotion exists for a reason. Each has something great it can be used for.
-
-Emotion follows state. State can follow action. So you can change your emotions through action.
