@@ -32,7 +32,7 @@ Most recovery typically takes < 2 days
 ## Evidence
 Meditation improves recovery
 - http://www.sciencedirect.com/science/article/pii/003193849190543W
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695992/?utm_source=twitterfeed&utm_medium=twitter
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695992/
 
 ## Resources
 - https://en.wikipedia.org/wiki/Healing
