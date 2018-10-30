@@ -5,14 +5,20 @@ title: Burnout
 ## Definition
 Burnout = exhaustion and fatigue
 Procrastination is just not feeling the energy to do something
-"six risk factors for burnout: mismatch in workload, mismatch in control, lack of appropriate awards, loss of a sense of positive connection with others in the workplace, perceived lack of fairness, and conflict between values."
+
+## Cause
+Six risk factors for work-related burnout:
+- Mismatch in workload
+- Mismatch in control
+- Lack of appropriate awards
+- Loss of a sense of positive connection with others in the workplace
+- Perceived lack of fairness
+- Conflict between values
 
 ## Recovery
 (see recovery post)
 
 Let it consume you for a day. Be a consumer. Plan for next day. Next day alarm goes off and workout and eat a good meal.
-
-
 
 
 
