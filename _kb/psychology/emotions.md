@@ -80,3 +80,5 @@ If A thinks that we should take care of our environment then most probably the f
 It's all a game of beliefs, the thoughts that arise from those beliefs and consequently the way in which we interpret an incident. Some of these beliefs are genetically programmed into our psyche (e.g. fear of falling) while others are learned during our past life experiences (e.g. people can't be trusted).
 
 Once you develop enough awareness, then you’ll be able to carefully observe the thoughts that cross your mind when you experience certain events and with practice, you’ll come to know exactly what causes your emotional state to change.
+
+https://en.wikipedia.org/wiki/Emotion
