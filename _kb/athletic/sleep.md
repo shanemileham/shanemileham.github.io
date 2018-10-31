@@ -38,13 +38,14 @@ See notes on lucid dreaming in other doc
 ## Statements To Organize
 - Experimental data of sleep waves (deeper sleep at beginning of night) --> [basic rest-activity cycle](https://en.m.wikipedia.org/wiki/Basic_rest-activity_cycle)
 - Moderate Aerobic exercise decreases sleep onset latency and total wake time, and it increases sleep efficiency and total sleep time. High-intensity aerobic exercise and moderate-intensity resistance exercise had little effect ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2883039/))
-
+- REM deprivation is highly successful as an antidepressant
+  - Results suggested (1) that substantial REM sleep reduction has antidepressant activity, and (2) since imipramine and other drug antidepressants reduce REM sleep much more so than nonantidepressant drugs, that an antidepressant "mechanism" of drugs resides in their capacity to substantially reduce REM sleep. ([Source](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/491375))
+  - REM sleep alterations may precede the clinical expression of depression ([source](https://www.ncbi.nlm.nih.gov/pubmed/23391633))
 
 ## Statements to Verify
 - Warmth --> Awake; Cold --> Asleep
   - Note that metabolizing carbohydrates will create heat, which will signal your body to wake up. This is perfect for naps and suboptimal if long sleep is desired.
 - Employ the use of deep belly breathing before sleep.
-- Keep the room cold in the evening to signal the body to slow down.
 - Use calcium and magnesium instead of melatonin for help with falling asleep and staying asleep.
 
 
@@ -96,7 +97,7 @@ See notes on lucid dreaming in other doc
 - https://www.mindbodygreen.com/0-21123/sleepdeprivation-is-actually-ruining-your-life-heres-how-to-fix-it.html
 - https://sleepfoundation.org/how-sleep-works/what-happens-when-you-sleep
 - Hormones and sleep - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC297368/, performance nutrition
-- [Dream deprivation is highly successful as an antidepressant](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/491375)
+
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/
 - https://en.m.wikipedia.org/wiki/Sleep_hygiene
 - https://en.m.wikipedia.org/wiki/Phase_response_curve
