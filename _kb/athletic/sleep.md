@@ -7,35 +7,8 @@ title: Sleep
 ## Goals
 - Optimal mental and athletic performance
 - Ability to lucid dream
-- Minimal sleep while attaining the above
+- Minimal sleep required while attaining the above
 
-## Axioms
-- Sleep is typically characterized by altered consciousness, relatively inhibited sensory activity
-
-
-## Statements To Organize
-- Experimental data of sleep waves (deeper sleep at beginning of night) --> [basic rest-activity cycle](https://en.m.wikipedia.org/wiki/Basic_rest-activity_cycle)
-- "Morning" and "Evening" people are determined by questions like "What time would you get up if you were entirely free to plan your day?" ([reference](https://en.m.wikipedia.org/wiki/Morningness%E2%80%93eveningness_questionnaire)). There is some genetic influence on these preferences. However, people perform the same on cognitive tests regardless of their morning/evening preference and time of the day. [Chronotype](https://en.m.wikipedia.org/wiki/Chronotype). Humans can have a propensity to be morning people or evening people; these behavioral preferences are called chronotypes for which there are various assessment questionnaires and biological marker correlations.
-- Moderate Aerobic exercise decreases sleep onset latency and total wake time, and it increases sleep efficiency and total sleep time. High-intensity aerobic exercise and moderate-intensity resistance exercise had little effect ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2883039/))
-
-
-
-## Statements to Verify
-
-
-
-- No food or alcohol within 2-4 hours of bedtime. If you must eat, eat low carbohydrate. The sugar from alcohol and carbohydrate will metabolize in the middle of your sleep causing a rise in body temperature, signaling the body to wake.
-- Employ the use of deep belly breathing before sleep.
-- Keep the room cold in the evening to signal the body to slow down.
-- Use calcium and magnesium instead of melatonin for help with falling asleep and staying asleep.
-
-
----
-
-## Things I've Verified Experimentally
-- Different behaviors/workouts require different amount of sleep
-- it’s more important to wake up at the same time than fall asleep at the same time
-- Easier to fly E-->W, Circadian rhythm is over 24 hours
 
 ## Questions
 - What is the best sleep schedule?
@@ -45,12 +18,41 @@ title: Sleep
 - How do you best entrain your circadian rhythm?
 - What is the effect of a polyphasic sleep cycle with a phase response curve of the circadian rhythm or the application of melatonin?
 
-## Outline
-- What is sleep
-- Effects
-- Optimizations
-- Polyphasic, etc.
-- Dreaming
+
+## What is sleep?
+- Sleep is typically characterized by altered consciousness, relatively inhibited sensory activity
+
+## Axioms / Optimizations
+- Different stressors (e.g. workouts, work, social situations) require different types and amounts of sleep
+
+## Circadian Rhythm
+
+
+## Polyphasic Sleep
+AFAIK, this is suboptimal for athletic performance. Need to verify.
+
+## Dreaming
+See notes on lucid dreaming in other doc
+
+
+## Statements To Organize
+- Experimental data of sleep waves (deeper sleep at beginning of night) --> [basic rest-activity cycle](https://en.m.wikipedia.org/wiki/Basic_rest-activity_cycle)
+- Moderate Aerobic exercise decreases sleep onset latency and total wake time, and it increases sleep efficiency and total sleep time. High-intensity aerobic exercise and moderate-intensity resistance exercise had little effect ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2883039/))
+
+
+## Statements to Verify
+- Warmth --> Awake; Cold --> Asleep
+  - Note that metabolizing carbohydrates will create heat, which will signal your body to wake up. This is perfect for naps and suboptimal if long sleep is desired.
+- Employ the use of deep belly breathing before sleep.
+- Keep the room cold in the evening to signal the body to slow down.
+- Use calcium and magnesium instead of melatonin for help with falling asleep and staying asleep.
+
+
+## Myths
+- "Morning" and "Evening" people
+  - "Morning" and "Evening" people are determined by questions like "What time would you get up if you were entirely free to plan your day?" ([reference](https://en.m.wikipedia.org/wiki/Morningness%E2%80%93eveningness_questionnaire)). There is some genetic influence on these preferences. However, people perform the same on cognitive tests regardless of their morning/evening preference and time of the day. [Chronotype](https://en.m.wikipedia.org/wiki/Chronotype). Humans can have a propensity to be morning people or evening people; these behavioral preferences are called chronotypes for which there are various assessment questionnaires and biological marker correlations.
+- Melatonin helps you fall asleep
+  - It actually is a signal to alter the circadian rhythm (see section on that)
 
 
 
