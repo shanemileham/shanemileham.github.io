@@ -22,6 +22,9 @@ title: Sleep
 ## What is sleep?
 - Sleep is typically characterized by altered consciousness, relatively inhibited sensory activity
 
+## Importance of Sleep
+"Chronic sleep deficiency, defined as a state of inadequate or mistimed sleep, is a growing and underappreciated determinant of health status. Sleep deprivation contributes to a number of molecular, immune, and neural changes that play a role in disease development, independent of primary sleep disorders. These changes in biological processes in response to chronic sleep deficiency may serve as etiological factors for the development and exacerbation of cardiovascular and metabolic diseases and, ultimately, a shortened lifespan. Sleep deprivation also results in significant impairments in cognitive and motor performance which increase the risk of motor vehicle crashes and work-related injuries and fatal accidents. The American Academy of Sleep Medicine and the Sleep Research Society have developed this statement to communicate to national health stakeholders the current knowledge which ties sufficient sleep and circadian alignment in adults to health." ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3353049/))
+
 ## Axioms / Optimizations
 - Different stressors (e.g. workouts, work, social situations) require different types and amounts of sleep
 - Deeper sleep at beginning of night ([Source](https://en.m.wikipedia.org/wiki/Basic_rest-activity_cycle))
@@ -32,6 +35,19 @@ title: Sleep
   - Moderate aerobic exercise decreases sleep onset latency and total wake time, and it increases sleep efficiency and total sleep time. High-intensity aerobic exercise and moderate-intensity resistance exercise had little effect ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2883039/))
 - Temperature
 - Nutrients
+- Stress
+  - "Psychosocial stress is associated with increased pre-sleep arousal and impaired sleep"
+  - "Various stress management strategies have been shown to reduce pre-sleep arousal and improve sleep (most often self-reported sleep)"
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/
+- Noise
+  - Nighttime noise increases arousals, but habituation to noises occurs ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/))
+- Caffeine, nicotine, alcohol,
+
+
+## Sleep Hyiene
+Note: "Although research has demonstrated links between individual sleep hygiene components and subsequent sleep, evidence for the efficacy of sleep hygiene education as a treatment for insomnia has been limited and inconclusive" ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/))
+
+Please read the bulleted findings in the table linked [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/table/T1/?report=objectonly)
 
 ## Circadian Rhythm
 
@@ -53,8 +69,12 @@ See notes on lucid dreaming in other doc
   - "Morning" and "Evening" people are determined by questions like "What time would you get up if you were entirely free to plan your day?" ([reference](https://en.m.wikipedia.org/wiki/Morningness%E2%80%93eveningness_questionnaire)). There is some genetic influence on these preferences. However, people perform the same on cognitive tests regardless of their morning/evening preference and time of the day. [Chronotype](https://en.m.wikipedia.org/wiki/Chronotype). Humans can have a propensity to be morning people or evening people; these behavioral preferences are called chronotypes for which there are various assessment questionnaires and biological marker correlations.
 - Melatonin helps you fall asleep
   - It actually is a signal to alter the circadian rhythm (see section on that)
-
-
+- Exercise and sleep disruption
+  - "Current evidence does not support the claim that late-night exercise disrupts sleep" ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/))
+- Naps
+  - "Most research suggests that daytime naps do not have a substantial impact on subjective or objective nocturnal sleep, despite sleep hygiene recommendations to avoid naps" ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/))
+- Sleep timing
+  - "Irregular sleep schedules have been associated with poor sleep, but assigning regular sleep schedules to nonclinical adults has shown limited effects on sleep improvement" ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/))
 
 
 ## Statements to Verify
@@ -106,6 +126,7 @@ See notes on lucid dreaming in other doc
 - https://sleepfoundation.org/how-sleep-works/what-happens-when-you-sleep
 - Hormones and sleep - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC297368/, performance nutrition
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/
+
 - https://en.m.wikipedia.org/wiki/Sleep_hygiene
 - https://en.m.wikipedia.org/wiki/Phase_response_curve
 - https://en.m.wikipedia.org/wiki/Circadian_clock
