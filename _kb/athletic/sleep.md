@@ -42,6 +42,8 @@ title: Sleep
   - "Psychosocial stress is associated with increased pre-sleep arousal and impaired sleep"
   - "Various stress management strategies have been shown to reduce pre-sleep arousal and improve sleep (most often self-reported sleep)"
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/
+  - Stressful life event increases REM sleep and decreases slow wave sleep (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4266573/ - table 5) and lowers sleep quality
+  - Stress (variable) makes it harder to fall asleep (increases sleep latency) and reduces quality of sleep as well as time in slow wave and REM (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4266573/)
 - Noise
   - Nighttime noise increases arousals, but habituation to noises occurs ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/))
 - Caffeine, nicotine, alcohol, ... ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/))
