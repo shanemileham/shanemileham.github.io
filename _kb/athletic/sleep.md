@@ -33,7 +33,10 @@ title: Sleep
 ## Effectors
 - Physical Exercise
   - Moderate aerobic exercise decreases sleep onset latency and total wake time, and it increases sleep efficiency and total sleep time. High-intensity aerobic exercise and moderate-intensity resistance exercise had little effect ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2883039/))
+  - "an acute bout of exercise is likely to result in a modest improvement in the subsequent night's sleep" "the largest increases in TST were seen with exercise longer than 60 minutes. The mode of exercise performed (e.g., walking, resistance exercise) and participant's level of fitness generally were not significant moderators" "According to a meta-analysis, exercising 4-8 h prior to bedtime has the most robust effects on subsequent sleep" ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/))
+  - Increased duration and increased intensity both improve sleep quality ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/)), but I believe this is because your body has more to recover from and has to be more efficient
 - Temperature
+  - sleep onset typically coincides with the rapid decline in body temperature and exercise increases the rate of decline in body temperature by initially raising core body temperature ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/))
 - Nutrients
 - Stress
   - "Psychosocial stress is associated with increased pre-sleep arousal and impaired sleep"
@@ -41,7 +44,7 @@ title: Sleep
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/
 - Noise
   - Nighttime noise increases arousals, but habituation to noises occurs ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/))
-- Caffeine, nicotine, alcohol,
+- Caffeine, nicotine, alcohol, ... ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/))
 
 
 ## Sleep Hyiene
@@ -68,9 +71,11 @@ See notes on lucid dreaming in other doc
 - "Morning" and "Evening" people
   - "Morning" and "Evening" people are determined by questions like "What time would you get up if you were entirely free to plan your day?" ([reference](https://en.m.wikipedia.org/wiki/Morningness%E2%80%93eveningness_questionnaire)). There is some genetic influence on these preferences. However, people perform the same on cognitive tests regardless of their morning/evening preference and time of the day. [Chronotype](https://en.m.wikipedia.org/wiki/Chronotype). Humans can have a propensity to be morning people or evening people; these behavioral preferences are called chronotypes for which there are various assessment questionnaires and biological marker correlations.
 - Melatonin helps you fall asleep
-  - It actually is a signal to alter the circadian rhythm (see section on that)
+  - It actually is a signal to alter the circadian rhythm (see section on Circadian Rhythm)
+- Blue light
+  - It's not bad - it simply acts as an entrainment mechanism for the circadian rhythm (see section on Circadian Rhythm)
 - Exercise and sleep disruption
-  - "Current evidence does not support the claim that late-night exercise disrupts sleep" ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/))
+  - "Current evidence does not support the claim that late-night exercise disrupts sleep" "According to a meta-analysis, exercising 4-8 h prior to bedtime has the most robust effects on subsequent sleep compared to all other times of day... studies have also found that exercising within 4 hours of bedtime does not disrupt or even improves subsequent sleep. These results were achieved even though exercise induced increases in heart rate and core body temperature that, in some cases, remained elevated at bedtime. These findings were further confirmed by a recent epidemiologic survey of 1000 adults which reported that nighttime exercise was not associated with poor sleep. Thus, the available evidence does not support the claim that late-night exercise disturbs sleep in the general population." ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/))
 - Naps
   - "Most research suggests that daytime naps do not have a substantial impact on subjective or objective nocturnal sleep, despite sleep hygiene recommendations to avoid naps" ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400203/))
 - Sleep timing
