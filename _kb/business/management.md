@@ -13,6 +13,13 @@ If you need to alter a person's behavior, after aligning with them (to make sure
 
 ## Exercises
 
+### Task Management
+- Eliminate
+- Delegate
+- Automate
+- Prioritize
+- Do
+
 ### Spheres of Influence
 For a given person you need something from, learn their world:
 - Who they interact with
