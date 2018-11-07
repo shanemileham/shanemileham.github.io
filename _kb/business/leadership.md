@@ -29,6 +29,7 @@ Top Level
 Other possible actionables
 - Significant
   - Make time for them
+  - Learn their problems, take notes, do something concrete about it
   - Talk to them about personal things
   - Showcase their work publicly
 - Supported / Protected
