@@ -13,7 +13,7 @@ People follow leaders because they make people feel
 - That they are part of a community
 - That they are creating a better future
 
-In short, "Leadership is a process of social influence which maximizes the efforts of others toward the achievement of a greater good."
+In short, "Leadership is a process of social influence which maximizes the efforts of others toward the achievement of a greater good." But more than that, it is about creating feeling. And being aware of emotions, identifying causes, altering emotions, and making people feel certain ways are all skills characteristic of someone with high emotional intelligence.
 
 Leadership vs. Management:
 Management is ensuring the work specified is done well. Leadership is asking/deciding whether the work should be done at all.
