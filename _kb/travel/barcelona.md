@@ -4,6 +4,8 @@ title: Barcelona
 
 https://www.touringbird.com/barcelona
 
+http://spainwhatup.tumblr.com/guide2
+
 ## Zouk
 - [Gabriel Papagaio](https://www.facebook.com/gabriel.papagaio.lambada.zouk)
 - [Leticia Estévez López](https://www.facebook.com/leticiaspiral)
