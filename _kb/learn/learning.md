@@ -189,3 +189,5 @@ Also beliefs follow Experiences
 Also habits help create experiences which will reinforce beliefs
 
 Understand andbagree with belief theoretically then reinforce with experience
+
+Inner/outer game/learning - Actions < Habits < Beliefs
