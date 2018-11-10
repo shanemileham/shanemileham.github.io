@@ -13,8 +13,6 @@ Highly related to the cyclical nature of belief updating (belief -> action -> ex
 ## Altering Confidence
 Choose if you want your confidence level to be accurate to the world, or if you're okay with being overconfident (which can be helpful in many cases).
 
-Note that decreased confidence can be very important from a business perspective - having an accurate assessment of risk is paramount to effectively derisking the future. See /kb/business/management for more.
-
 Confidence usually consists of certain beliefs:
 - I am certain about an aspect of the future (usually because)
   - It can happen (hope) and
@@ -43,6 +41,8 @@ Projecting Confidence
 
 
 ### Decreasing Confidence
+Note that decreased confidence can be very important from a business perspective - having an accurate assessment of risk is paramount to effectively derisking the future. See /kb/business/management for more.
+
 - Ask
   - What could go wrong?
   - What risks exist here?
