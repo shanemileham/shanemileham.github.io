@@ -58,5 +58,6 @@ Note that decreased confidence can be very important from a business perspective
 
 ## INPUT
 - https://en.wikipedia.org/wiki/Creative_visualization
+- https://en.wikipedia.org/wiki/Self-confidence
 - https://www.psychologytoday.com/intl/blog/psychology-writers/201210/using-self-fulfilling-prophecies-your-advantage
 - https://en.wikipedia.org/wiki/Self-efficacy
