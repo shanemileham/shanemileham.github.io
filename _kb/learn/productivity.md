@@ -2,19 +2,29 @@
 title: Productivity
 ---
 
-## CALENDAR
+## Definition
+
+Of all the things you have to do, doing the highest leverage (most important)
+
+Eisenhower matrix
+
+
+
+## Actionables
+
+## Calendar
 0. Choose your life categories that matter and color code them (e.g. [grey=sleep/logistic, salmon=work, green=athletic, purple=mental, blue=social, yellow=creative, cyan=personal growth, default light blue = temporary])
 1. Schedule 24hrs on calendar proactively
 2. Keep track retroactively of how you spend your time
 3. Asana += Weekly task to review how you spent your time vs how you want to spend it
 4. Asana += Daily task for schedule ([morning routine, work, workout,
 
-## EMAIL
+## Email
 1. Is this a task? If so, send to x@mail.asana.com
 2. Do I need to reply? If so, reply (include link to asana maybe)
 3. Archive
 
-## ASANA
+## Asana
 1. Prioritize - tag (tab+t) all projects from [p0, p1, p2, p3]
 2. Create projects based on your life categories ([athletic, mental, social, creative, personal growth]) and move all tasks to a category
 3. Schedule repeating time on your calendar for each of your life categories, during which time you work through those tasks
@@ -25,7 +35,30 @@ Emails come in. They are either readable (then discard) or require some action o
 
 
 
-Chelsea’s Notes
+## Ander's Notes
+1. Everything in one place
+2. Prioritize + p system
+3. Add context
+4. Attack [urgent, priority high to low]
+
+Examples
+- Categories
+- Time slots in calendars for categories/context
+
+Other notes
+- Plan vs reality -> change habit
+- One habit: Daily task
+- Routines and spontaneity
+- If something is wrong, change the system or change the habit. Rarely a problem with the person. People have good intentions.
+- Expectations at start of day; commitment to self
+- Any idea, task, thought --> go into asana
+- Email thing
+- Sections in asana = sequential and atomic
+- Management += entire project planned at front
+- Include management Eliminate, Delegate, ...
+- 
+
+##Chelsea’s Notes
 
 Calendar
 Logging all time - sleep and activity/task
