@@ -12,6 +12,7 @@ A desire to act
 - Intrinsic Motivation
 
 
+Note: See /kb/psychology/emotions/apathy
 
 ## Resources
 - https://en.wikipedia.org/wiki/Motivation
