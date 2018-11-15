@@ -2,6 +2,28 @@
 title: Management
 ---
 
+## Responsibilities
+- Hiring
+- Training
+- Managing people
+- Managing projects
+- Performance
+
+### Hiring
+
+### Training
+
+### Managing People
+
+### Managing Projects
+
+### Performance
+- Set performance expectations for all workers
+- Know performance status for all workers
+- Know upward trajectory for all workers
+- Know alignment and morale for all workers
+
+
 ## Overall Notes
 - have time for your people
 - talk to all your people
