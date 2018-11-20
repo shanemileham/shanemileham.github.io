@@ -4,7 +4,7 @@ title: Sun Tzu - The Art of War
 
 ## Notes
 
-### Chapter 1: Planning, calculating, and comparing armies leads to war
+### Section 1: Planning, calculating, and comparing armies leads to war
 - Compare armies
   - Obedience (to the death)
   - More capable general
@@ -15,7 +15,7 @@ title: Sun Tzu - The Art of War
   - Consistency in rewards/punishments for discipline
 - Make meticulous plans
 
-### Chapter 2: Secure yourself against defeat, and wait for an opportunity for victory
+### Section 2: Secure yourself against defeat, and wait for an opportunity for victory
 Five rules for victory
 1. You must know when to fight and when not to fight
 2. You must know how to deal with forces both inferior and superior to your own
@@ -36,7 +36,7 @@ Avoid
 - Traps from your enemy
 - Leading your army into places where your supplies cannot reach you or you do not know the terrain or your allies well
 
-### Chapter 3: Warfare is only successful if sovereigns and generals do not cause their own defeat
+### Section 3: Warfare is only successful if sovereigns and generals do not cause their own defeat
 Generals are commanded by sovereigns. A mistake by either can cause defeat.
 
 Sovereign Mistakes
@@ -58,7 +58,7 @@ General is also responsible if
 5. Indecisive - General is weak and indecisive
 6. Unknown - Unable to estimate an enemy's strength and hurls an inferior force against a superior one
 
-### Chapter 4: Conserve your resources through strategems, foraging, and espionage
+### Section 4: Conserve your resources through strategems, foraging, and espionage
 - Maintaining an army is expensive
 - Aim for quick and decisive victories
 - Avoid besieging walled cities (prep, impatient generals, ...)
@@ -69,7 +69,7 @@ General is also responsible if
 - Maintain intimate relations with spies adn reward them well (high ROI)
 - If you build a strategem around a secret from a spy, kill spy and other people so strategem maintains power
 
-### Chapter 5: Deceive your enemy and impose your will on him
+### Section 5: Deceive your enemy and impose your will on him
 Deceive
 - Mask strength with weakness
 - Mask courage with timidity
@@ -87,7 +87,7 @@ Impose will
 - Make enemy defend many fronts
 - Attack weak points to make him rush to defend
 
-### Chapter 6: Observe the terrain and your enemy, then adapt accordingly
+### Section 6: Observe the terrain and your enemy, then adapt accordingly
 Observe terrain
 - Do not climb heights, go upstream, or travel away from water and shelter
 - Avoid cliffs or confined spaces where a small force can destroy an army
@@ -97,6 +97,27 @@ Observe enemy
 - Lean on spears → faint from starvation
 - Water gatherers drink first → suffing from thirst
 - Eat own cattle, neglect to hang pots, act as if they won't return to tents → willing to fight to the death
+
+### Section 7: To wage war successfully, manage your tropops sternly, keep them in uncertainty, and make them fight to the death
+Managing army
+- Same as smaller army; just use groups and communicate
+- When it moves as one, cowardly won't retreat and brave will charge together
+- Further into hostile territory, more solidarity
+- Without escape, soldiers will lose fear and fight to the death
+
+Discipline
+- Treat them like beloved sons
+- Command them with authority
+- Affection is required for discpline
+- Treat them humanely while keeping the under control with discipline and punishments
+
+Secretive
+- Keep soldiers ignorant
+- Change plans frequently
+- Keep both soldiers and enemy guessing
+- Changs camps, take circuitous routes
+- Only reveal your hand whne you're deep in enemy territory
+- When situation is good, tell; when not, withhold
 
 
 ## Resources
