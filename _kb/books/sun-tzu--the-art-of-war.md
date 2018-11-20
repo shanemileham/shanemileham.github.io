@@ -69,6 +69,24 @@ General is also responsible if
 - Maintain intimate relations with spies adn reward them well (high ROI)
 - If you build a strategem around a secret from a spy, kill spy and other people so strategem maintains power
 
+### Chapter 5: Deceive your enemy and impose your will on him
+Deceive
+- Mask strength with weakness
+- Mask courage with timidity
+- Mask order with disorder
+- Keep enemy guessing where you will attack
+
+Impose will
+- If he has a temper, irritate him
+- If he is at ease, harass him
+- If well supplied, starve him
+- If quietly encamped, force him to move
+- If you wish the enemy to advance, hold out bait to him
+- If you wish him to retreat, inflict damage on him
+- Force enemy to reveal himself so you can see vulnerabilities
+- Make enemy defend many fronts
+- Attack weak points to make him rush to defend
+
 
 ## Resources
 - https://www.blinkist.com/en/nc/reader/the-art-of-war-en/
