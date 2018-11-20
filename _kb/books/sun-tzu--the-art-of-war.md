@@ -58,6 +58,16 @@ General is also responsible if
 5. Indecisive - General is weak and indecisive
 6. Unknown - Unable to estimate an enemy's strength and hurls an inferior force against a superior one
 
+### Chapter 4: Conserve your resources through strategems, foraging, and espionage
+- Maintaining an army is expensive
+- Aim for quick and decisive victories
+- Avoid besieging walled cities (prep, impatient generals, ...)
+- Capture enemy (country/city/army) with much larger force
+- Subdue enemies without fighting - Win with ease
+- Take resources from enemy (weapons, armor, men)
+- Use spies to get info and give false info
+- Maintain intimate relations with spies adn reward them well (high ROI)
+- If you build a strategem around a secret from a spy, kill spy and other people so strategem maintains power
 
 
 ## Resources
