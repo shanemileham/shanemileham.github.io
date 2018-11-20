@@ -41,6 +41,24 @@ title: Management
   - Effective when: more skills are needed; people are motivated to get better
   - Ineffective when: manager lacks expertise; performance discrepancy is too great; in a crisis
 
+### Handling Issues
+- Every issue can be solved at one of the following levels:
+  - Systems (communication, expectations, technical, ...)
+  - People (beliefs, habits, ...)
+
+#### Understanding Issues
+- Open: State issue, give examples, and invite the person to share ("Why do you think this is happening?")
+- Summarize: "Let me make sure I understand you..." / "So what I hear you saying is..."
+- Gather Information
+  - Probe: Identify areas of question and ask open questions ("Tell me more.", "What else should I know?", "Why do you say that?", "For example?")
+  - Temporarily Put Aside: "If we could resolve X, and I'm not saying we can, but if we could, are there any other reasons why you think Y is happening?"
+- Repeat
+
+#### Solving Issues
+- Ask for solutions ("If you were me, what would you recommend?", "What ideas do you have?", "What would your solution be?")
+- Respond to solution: accept, add, or question
+- Create a plan to solve (What by Whom by When)
+
 ### Managing Projects
 
 ### Performance
