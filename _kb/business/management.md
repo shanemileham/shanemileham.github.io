@@ -15,6 +15,17 @@ title: Management
 
 ### Managing People
 
+#### Alignment
+Make sure to get alignment on
+- Situation
+- Problems
+- Solutions
+- Expectations
+
+Tips for alignment
+- Summarize: "Let me make sure I understand you..." / "So what I hear you saying is..."
+- Definitions: "What do you mean by X?"
+
 #### Management Styles
 - DIRECTIVE “Do what I tell you” — Immediate Compliance
   - Motivators: threats & discipline
@@ -41,6 +52,9 @@ title: Management
   - Effective when: more skills are needed; people are motivated to get better
   - Ineffective when: manager lacks expertise; performance discrepancy is too great; in a crisis
 
+### Managing Projects
+
+
 ### Handling Issues
 - Every issue can be solved at one of the following levels:
   - Systems (communication, expectations, technical, ...)
@@ -59,7 +73,6 @@ title: Management
 - Respond to solution: accept, add, or question
 - Create a plan to solve (What by Whom by When)
 
-### Managing Projects
 
 ### Performance
 - Set performance expectations for all workers
