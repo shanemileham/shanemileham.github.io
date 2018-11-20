@@ -4,7 +4,7 @@ title: Sun Tzu - The Art of War
 
 ## Notes
 
-### Chapter 1: Planning, calculating, and comparing armies leads to war.
+### Chapter 1: Planning, calculating, and comparing armies leads to war
 - Compare armies
   - Obedience (to the death)
   - More capable general
@@ -86,6 +86,17 @@ Impose will
 - Force enemy to reveal himself so you can see vulnerabilities
 - Make enemy defend many fronts
 - Attack weak points to make him rush to defend
+
+### Chapter 6: Observe the terrain and your enemy, then adapt accordingly
+Observe terrain
+- Do not climb heights, go upstream, or travel away from water and shelter
+- Avoid cliffs or confined spaces where a small force can destroy an army
+- Look for startled birds or beasts; they indicate you are approaching an ambush
+
+Observe enemy
+- Lean on spears → faint from starvation
+- Water gatherers drink first → suffing from thirst
+- Eat own cattle, neglect to hang pots, act as if they won't return to tents → willing to fight to the death
 
 
 ## Resources
