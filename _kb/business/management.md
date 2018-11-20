@@ -52,6 +52,11 @@ For a given person you need something from, learn their world:
 
 ## Resources
 
+## Relevant Books
+- Principles
+- Antifragile
+- Black Swan
+
 ## Input
 - https://rework.withgoogle.com/guides/
 - What do top managers believe?
