@@ -43,8 +43,8 @@ Backpack - Incase Icon Pack Backpack
   - Gum - 5 Cobalt
 - Side pouch (green)
   - USB Power Bank (x2) - Anker
-  - MicroUSB cord (x2)
-  - Lightning cord (x2)
+  - MicroUSB cord (x2) - Haloback
+  - Lightning cord (x2) - Haloback
   - Outlet to USB converter (x2)
 - Side pouch (black)
   - Macbook charger
