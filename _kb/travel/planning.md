@@ -98,6 +98,7 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
 - Check hostels for events
 - [Facebook Events](https://www.facebook.com/events)
 - [Meetup](https://www.meetup.com/)
+- [CourseHorse](https://coursehorse.com/nyc)
 
 ## Things I like to do if it exists there
 - Escape room
@@ -129,6 +130,7 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
 ## CHECKLIST (Copy into Asana)
 - People:
   - Message friends that I'm traveling
+  - Hit up common connectors (tag=`Connector`)
 - TODO:
   - Mark places on google maps
 - Logistics:
@@ -139,7 +141,7 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
   - First degree connections
   - Second degree connections
   - Network connections
-  - Private lessons
+  - Private lessons (Thumbtack, etc.)
   - Online dating swiping
   - Dance events
   - Hostel hangouts
