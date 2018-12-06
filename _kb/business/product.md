@@ -9,6 +9,11 @@ I do 80% antifragile solving problems for clients. 20% for intelligent design.
 Antifragile and Lindy effect.
 
 
+PM
+- Only make promises you can keep
+- Create alignment with all stakeholds about all expectations
+
+
 ## Resources
 - Cracking the PM Interview
 - [Product School - The Product Book](https://drive.google.com/open?id=1pYk_Zu5r72oMipFylsCQ0ii1FiS_GKZq)
