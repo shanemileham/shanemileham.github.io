@@ -2,30 +2,6 @@ Zouk
 
 Photo/Video Album
 
-Moves
--- Basic step (passo basico)
--- Tuck Turn (left turn)
--- Viradinha (little opening to the right)
--- Cross step
--- Lateral (side step)
--- Left turn for ladies, left turn for guys
--- Simple turn - to open or closed
--- Yo-yo from simple turn (turn on a line)
--- Body roll in close position
-
-
-
-…
-Bonus
-Lunge
-Raul (elastico)
-Combre
-Aeroplane
-Boneca
-Counterbalances
-Rotisserie
-
-
 Drills
 - Footwork timing
 - Footwork redirect all directions
@@ -98,5 +74,37 @@ Can lateral by turning their arms in to create a better frame if needed
 
 
 ## 201810XX
-frame with extension and compression.
-light touch for elongation, firm for resistance and counterbalancing
+From workshop with Bruno:
+- frame with extension and compression.
+- light touch for elongation, firm for resistance and counterbalancing
+
+
+## 20181213 Shani Mayer
+Feet
+I'm doing a lot of arms. Keep frame and start from center
+Hips more forward
+First step on ball of foot is old technique. Now flat. So only the ends of the pendulum are ball.
+
+Lateral
+Ball of foot push off same
+No arms, all from motion of check
+Hips in neutral the whole time
+Don't over cross. Connect chest direction to hips and foot.
+Lateral back to basic. Simple version. Catch shoulder, then create rubber band on the quick quick. She comes in on the slow.
+Tension is on the quick quick for lateral, NOT the slow.
+
+Lunge
+Turn. Rise on toe, split, toe heel knee bend. Keep hips straight, draw arc with chest facing forward.
+
+Lunge turn
+Hand slightly raise, then don't use arm. Turn comes from me sliding to the right. Don't rush to lower arm.
+Then rock step forward as noted before. Get rubber band effect.
+
+Three options out of lunge:
+1. Closed basic with hand across stomach
+2. Open basic (likely to go into elastico/vomite)
+3. Lateral. No right hand connection.
+
+Timing on feet for lunge is quick and quick, not quick quick.
+
+Lateral to lunge is restep on the right (facing the new direction) followed by quick and quick.
