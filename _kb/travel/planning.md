@@ -14,6 +14,7 @@ title: Travel Planning
   - [Average Monthly Rent by city](https://i.redd.it/39f2re4pyi711.png)
   - [Travel.gov](https://travel.state.gov)
     - Visa requirements
+      - Check your country's website for this or [VisaList](https://visalist.io/)
     - Health and safety info
 - Decide what things you want to be near
   - Neighborhood
