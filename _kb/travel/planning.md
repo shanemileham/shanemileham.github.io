@@ -81,7 +81,6 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
 - Network connections
   - Post in groups of people you like asking who is there or for intros
 - Private or group lessons (dancing, singing, language, cooking, photography, ...)
-- Online dating there (tinder, bumble, hinge, etc.)
 - Specialty events (dance, acroyoga, martial arts, ...)
 - Hang out around hostels
 - Coworking spaces
@@ -141,8 +140,7 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
   - First degree connections
   - Second degree connections
   - Network connections
-  - Private lessons (Thumbtack, etc.)
-  - Online dating swiping
+  - Private lessons (Dance, singing, standup, ... via Thumbtack, etc.)
   - Dance events
   - Hostel hangouts
   - Working spaces
