@@ -4,9 +4,6 @@ title: San Francisco
 
 {% include toc %}
 
-## Events
-TODO make a calendar you can subscribe to?
-
 ## Places
 
 ## Resources (TODO integrate)
