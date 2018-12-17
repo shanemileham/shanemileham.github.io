@@ -30,3 +30,8 @@ Rotisserie
 
 ## Resources
 [Zouk Germany](https://www.youtube.com/channel/UCN1HHBlxByX8Doqy0Jv5LUw/playlists)
+
+## People
+- China Soulzouk - https://www.facebook.com/ChinaSZSOULZOUK/
+- Bruno Galhardo & Raiza -https://www.facebook.com/brunogalhardoeraizaoficial/
+- Carlos and Fernanda - https://www.facebook.com/CarlosDaSilvaAndFernandaVitoria/
