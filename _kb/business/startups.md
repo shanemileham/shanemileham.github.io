@@ -6,6 +6,8 @@ title: Startups
 
 
 ## Resources
+- https://www.startupschool.org/
+
 - https://www.atomic-squirrel.net/startup-checklist/
 - https://smallbiztrends.com/2013/04/startup-checklist.html
 - https://articles.bplans.com/business-startup-checklist/
