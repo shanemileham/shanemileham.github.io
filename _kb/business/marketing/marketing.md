@@ -3,6 +3,8 @@ title: Marketing
 ---
 
 
+hubspot academy
+
 https://saas.chiefoutsiders.com/blog/
 
 https://buffer.academy/
