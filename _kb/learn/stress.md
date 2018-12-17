@@ -25,3 +25,8 @@ Flow states --> Recover then stress
 Management += don't just make it possible to succeed; make it impossible to fail
 
 Management += derisking = planning and overcoming psych biases --> Rationality
+
+
+Retirement (laying on the beach) WILL make you bored (see flow state diagram)
+
+Flow state relation
