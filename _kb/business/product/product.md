@@ -11,7 +11,7 @@ Antifragile and Lindy effect.
 
 PM
 - Only make promises you can keep
-- Create alignment with all stakeholds about all expectations
+- Create alignment with all stakeholders about all expectations
 
 
 ## Resources
