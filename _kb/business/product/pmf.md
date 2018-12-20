@@ -12,5 +12,9 @@ title: Product Market Fit
 - Referral Rate
 - Low Churn
 
-## Product, Market, and fit
+## Product, Market, and Fit
 Fix your product or fix your market, and then try to find the fit from the other
+
+
+TODO https://medium.com/evergreen-business-weekly/product-market-fit-what-it-really-means-how-to-measure-it-and-where-to-find-it-70e746be907b
+TODO https://www.entrepreneur.com/article/313759
