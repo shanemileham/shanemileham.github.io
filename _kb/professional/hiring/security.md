@@ -10,3 +10,8 @@ Skills to look for
 
 Note that
 - Security people are finicky and know their worth. Make sure (like any employee) they're treated well and are working on meaningful work for a reasonable salary.
+
+Ask questions about
+- Hypothetical situations
+- Worst case
+- How they'd handle worst case (repeat)
