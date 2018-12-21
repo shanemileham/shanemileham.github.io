@@ -191,3 +191,5 @@ Also habits help create experiences which will reinforce beliefs
 Understand andbagree with belief theoretically then reinforce with experience
 
 Inner/outer game/learning - Actions < Habits < Beliefs
+
+Helps to have existing models to be able to reference to input information more easily (this is likely why people have preferred learning styles because they have better models for these things)
