@@ -1,6 +1,6 @@
 # shanemileham.com
 
-Heap Analytics: https://heapanalytics.com/app/dashboard/Engagement-Overview-15735
+Heap Analytics: https://heapanalytics.com/
 
 Themes:
 - https://github.com/arkadianriver/spectral
