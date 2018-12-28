@@ -12,6 +12,9 @@ title: Design
 - [Color Palettes (Invision)](https://www.invisionapp.com/blog/color-palettes/)
 - [Nice CSS Gradients](https://cssgradient.io/swatches/)
 
+## Editors
+- [Remove Background](https://www.remove.bg/)
+
 ## TODO input
 - https://draftium.com/
 - https://www.relaythat.com/features
