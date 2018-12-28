@@ -7,16 +7,21 @@ title: Personal Reflection
 ## Review Previous Year
 _This section is to help understand how you used your time, effort, and energy, and to identify the most and least valuable uses of those._
 
-- Goals/Plan
-  - Did I complete these? Why or why not?
-  - By the end of the year, were these what I actually cared about?
-  - Which of these goals was I excited to work on? Why?
-  - Which of these goals did I procrastinate on? Why?
+_First, review by memory and answer the following questions_
+
 - Story
   - What were the plot points this past year? What was the story?
   - What am I proud of? What did I learn?
   - What story do I want to tell next year?
-- Calendar
+
+_Then review in detail_
+
+- Review your Plan (Goals)
+  - Did I complete these? Why or why not?
+  - By the end of the year, were these what I actually cared about?
+  - Which of these goals was I excited to work on? Why?
+  - Which of these goals did I procrastinate on? Why?
+- Review your Time (Calendar)
   - Without looking at your calendar, what was most memorable from last year? (highlights/lowlights)
   - What kinds of things were most memorable? Work? Social events? Time with certain people? Meeting new people? Feelings?
   - Now looking at your calendar, go through and catalog the events that were most memorable or valuable to you
@@ -24,9 +29,8 @@ _This section is to help understand how you used your time, effort, and energy, 
   - Now generalize: what uses of time were most valuable, and what were least?
   - Which events or uses of time energized me? Why?
   - Which events or uses of time drained my energy? Why?
-- Photos
+- Review your Experience (Photos, Journal)
   - Review the year in photos!
-- Journal
   - Review journal entries over the past year!
 - General Questions
   - What were you most grateful for?
@@ -34,6 +38,7 @@ _This section is to help understand how you used your time, effort, and energy, 
   - What were you most proud of having accomplished?
   - New philosophies? Principles?
   - What made you most happy?
+  - If your 95 year old self is looking back on you at this age, what do they see?
 
 
 ## Finding Clarity and Direction
