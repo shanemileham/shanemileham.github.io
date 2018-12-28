@@ -30,6 +30,7 @@ Rotisserie
 
 ## Resources
 [Zouk Germany](https://www.youtube.com/channel/UCN1HHBlxByX8Doqy0Jv5LUw/playlists)
+[Zouk Technique PDF](https://drive.google.com/open?id=1gjkgmjSTdvIvIgztDy52EOlQ4kzJYgvA)
 
 ## People
 - China Soulzouk - https://www.facebook.com/ChinaSZSOULZOUK/
