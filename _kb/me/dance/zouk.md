@@ -81,24 +81,24 @@ From workshop with Bruno:
 
 ## 20181213 Shani Mayer
 Feet
-I'm doing a lot of arms. Keep frame and start from center
-Hips more forward
-First step on ball of foot is old technique. Now flat. So only the ends of the pendulum are ball.
+- I'm doing a lot of arms. Keep frame and start from center
+- Hips more forward
+- First step on ball of foot is old technique. Now flat. So only the ends of the pendulum are ball.
 
 Lateral
-Ball of foot push off same
-No arms, all from motion of check
-Hips in neutral the whole time
-Don't over cross. Connect chest direction to hips and foot.
-Lateral back to basic. Simple version. Catch shoulder, then create rubber band on the quick quick. She comes in on the slow.
-Tension is on the quick quick for lateral, NOT the slow.
+- Ball of foot push off same
+- No arms, all from motion of check
+- Hips in neutral the whole time
+- Don't over cross. Connect chest direction to hips and foot.
+- Lateral back to basic. Simple version. Catch shoulder, then create rubber band on the quick quick. She comes in on the slow.
+- Tension is on the quick quick for lateral, NOT the slow.
 
 Lunge
-Turn. Rise on toe, split, toe heel knee bend. Keep hips straight, draw arc with chest facing forward.
+- Turn. Rise on toe, split, toe heel knee bend. Keep hips straight, draw arc with chest facing forward.
 
 Lunge turn
-Hand slightly raise, then don't use arm. Turn comes from me sliding to the right. Don't rush to lower arm.
-Then rock step forward as noted before. Get rubber band effect.
+- Hand slightly raise, then don't use arm. Turn comes from me sliding to the right. Don't rush to lower arm.
+- Then rock step forward as noted before. Get rubber band effect.
 
 Three options out of lunge:
 1. Closed basic with hand across stomach
