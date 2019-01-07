@@ -6,6 +6,8 @@ title: Conversation Questions
 
 Note that statements are a great way to spark conversation as well.
 
+Putting your attention on someone with genuinely interested questions allows them to reveal something they may not even have known about themselves.
+
 <!-- [Common, Follow Up] -->
 
 ## Common starting points
