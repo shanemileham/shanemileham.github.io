@@ -19,7 +19,9 @@ ask for help
 3. The cost of inaction (emotionally, physically, financially, ...) [6mo, 1yr, 3yrs]
 
 ## INPUT
-https://positivepsychologyprogram.com/life-coaching-tools/
-https://www.thecoachingtoolscompany.com/free-coaching-exercises/
-https://www.thecoachingtoolscompany.com/coaching-tools-catalogue/
-https://waitbutwhy.com/2018/04/picking-career.html
+- https://positivepsychologyprogram.com/life-coaching-tools/
+- https://www.thecoachingtoolscompany.com/free-coaching-exercises/
+- https://www.thecoachingtoolscompany.com/coaching-tools-catalogue/
+- https://waitbutwhy.com/2018/04/picking-career.html
+- https://www.12step.org/docs/Step4_Inventory.pdf / https://www.12step.org/tools/12steporg-worksheets/all-12-step-questions-english/
+-
