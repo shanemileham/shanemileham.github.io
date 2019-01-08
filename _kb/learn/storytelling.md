@@ -17,87 +17,47 @@ title: Storytelling
 
 ### Notes from TED Talk by Andrew Stanton
 
-deepens who we are as human beings. gives our lives purpose. connection to others.
+Why tell a story? deepens who we are as human beings. gives our lives purpose. connection to others.
 
-"there isn't anyone you couldn't learn to love if you heard their story"
+Belief
+- "there isn't anyone you couldn't learn to love if you heard their story"
 
-make me care
-
-
-give someone a promise that the story will be worth your time
-
-The audience wants to work for their meal, they just don't want to know that you're making them do that." we're compelled to deduce and deduct. the absence of information draws us in. we can't stop ourselves from wanting to put the pieces together.
-
-unifying theory of 2+2. Don't give them 4. Make them put the pieces together.
-
-They're inevitable if good, but not predictable.
-
-Spine for character is their overarching desire (wall-e: find the beauty; marlin: prevent harm to nemo; ...)
-
-Static stories die. Life is never static.
-
-"Drama is anticipation mingled with uncertainty" - William Archer
-- anticipation = what will happen next? made me want to know
-- have yo umade me want to know how it will conclude in the long term?
-- have you created honest conflicts with truth that creates doubt in what the outcome might be
-
-Initial disney rules
-- No songs
-- no i want moment
-- no happy village
-- no love story
-- no villain
-
-Storytelling has guidelines, not hard and fast rules
-
-Theme: who are you?
-
-Can you invoke wonder?
-
-Capture truth from your life
-
-- Then audience wants to work for their meal: 2+2
+Tips
+- make me care
+- give someone a promise that the story will be worth your time
+- Make it inevitable but not predictable
+- Give character a spine (decision making core) (wall-e: find the beauty; marlin: prevent harm to nemo; ...)
+- The audience wants to work for their meal (2+2).
 - Stories aren't exact or predictable
 - All well drawn characters have a dominant unconscious goal. Acknowledge what drives you take the wheel and steer it
 - Change must happen in a story
-- Drama is anticipation mingled with uncertainty
+- "Drama is anticipation mingled with uncertainty" -William Archer
+  - anticipation = what will happen next? made me want to know
+  - have you made me want to know how it will conclude in the long term?
+  - have you created honest conflicts with truth that creates doubt in what the outcome might be
 - An itch they can't scratch
 - Singular goal
 - Truth that deepens understanding of who we are
 - Make me care
 - Make a promise in the beginning
-- Stories have guidelines
+- Stories have guidelines, but not rules
 - Like your main character
 - Theme: "who are you?"
 - Invoke a sense of wonder
-
-1. Promise
-2. Make viewers work for their meal
-3. Characters has inner motor
-4. Anticipation with Uncertainty
-5. Add Good character arcs for your characters. With certain conditions are met.
-6. Underlying theme.
-7. Wonder.﻿
+- Capture truth from your life
+- Static stories die. Life is never static.
+- Add Good character arcs for your characters. With certain conditions are met.
 
 
-### Neurotransmitters
-TED Talk - https://www.youtube.com/watch?v=Nj-hdQMa3uA
+### Neurotransmitters - Note from TED Talk by David JP Philips
+- Dopamine - suspense, cliff hanger, storytelling in general
+- Oxytocin - empathy, feel human (generosity, trust, bonding)
+- Endorphin - laughter >> creative, relaxed, focused
 
-Dopamine - suspense, cliff hanger, storytelling in general
-Oxytocin - empathy, feel human (generosity, trust, bonding)
-Endorphin - laughter >> creative, relaxed, focused
+- Cortisol && Adrenalin - scare >> intolerant, irritable, uncreative, critical, memory impaired, bad decisions
 
-Cortisol && Adrenalin - scare >> intolerant, irritable, uncreative, critical, memory impaired, bad decisions
+"YOU pick the story you want, to release the hormone you wish, in the person you're talking to, to get the desired effects that you want."
 
-
-Write down your stories
-Show which create each
-Pick stories for each occasion
-
-"YOU pick the story you want
- to release the hormone you wish
- in the person you're talking to,
-to get the desired effects that you want."
 
 ## Important Storytelling Frameworks
 
@@ -160,8 +120,8 @@ Read more about the Hero's Journey on [Wikipedia](https://en.wikipedia.org/wiki/
   - Testimonials, stats
 
 ## Resources
-- TED Talk
-- TED: [Andrew Stanton: The Clues to a great story](https://www.youtube.com/watch?v=KxDwieKpawg)
+- [TED Talk by David JP Philips: The magical science of storytelling](https://www.youtube.com/watch?v=Nj-hdQMa3uA)
+- [TED Talk by Andrew Stanton: The Clues to a great story](https://www.youtube.com/watch?v=KxDwieKpawg)
 
 ## Input
 - https://en.wikipedia.org/wiki/Narrative
