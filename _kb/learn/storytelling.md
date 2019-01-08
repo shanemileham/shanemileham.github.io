@@ -23,29 +23,25 @@ Belief
 - "there isn't anyone you couldn't learn to love if you heard their story"
 
 Tips
-- make me care
-- give someone a promise that the story will be worth your time
+- Make a promise in the beginning that the story will be worth your time
+- Make me care
 - Make it inevitable but not predictable
 - Give character a spine (decision making core) (wall-e: find the beauty; marlin: prevent harm to nemo; ...)
 - The audience wants to work for their meal (2+2).
 - Stories aren't exact or predictable
 - All well drawn characters have a dominant unconscious goal. Acknowledge what drives you take the wheel and steer it
-- Change must happen in a story
+- Change must happen in a story (Static stories die. Life is never static.)
 - "Drama is anticipation mingled with uncertainty" -William Archer
-  - anticipation = what will happen next? made me want to know
-  - have you made me want to know how it will conclude in the long term?
-  - have you created honest conflicts with truth that creates doubt in what the outcome might be
-- An itch they can't scratch
+  - make me want to know what will happen next
+  - make me want to know how it will conclude in the long term
+  - create honest conflicts with truth that creates doubt about the outcome
 - Singular goal
 - Truth that deepens understanding of who we are
-- Make me care
-- Make a promise in the beginning
 - Stories have guidelines, but not rules
 - Like your main character
 - Theme: "who are you?"
 - Invoke a sense of wonder
 - Capture truth from your life
-- Static stories die. Life is never static.
 - Add Good character arcs for your characters. With certain conditions are met.
 
 
@@ -120,6 +116,7 @@ Read more about the Hero's Journey on [Wikipedia](https://en.wikipedia.org/wiki/
   - Testimonials, stats
 
 ## Resources
+- [Wikipedia: The Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey)
 - [TED Talk by David JP Philips: The magical science of storytelling](https://www.youtube.com/watch?v=Nj-hdQMa3uA)
 - [TED Talk by Andrew Stanton: The Clues to a great story](https://www.youtube.com/watch?v=KxDwieKpawg)
 
@@ -129,3 +126,7 @@ Read more about the Hero's Journey on [Wikipedia](https://en.wikipedia.org/wiki/
 - https://themoth.org/story-library/stories
 - Cal Fussman's Podcast (https://www.calfussmanpodcast.com/) - Found him through Tim Ferriss' podcast and fell in love with his questions and storytelling. He's a master.
 - A Million Miles in a Thousand Years - Donald Miller (https://smile.amazon.com/Million-Miles-Thousand-Years-Learned/dp/B002UF5KOE/ref=sr_1_1?ie=UTF8&qid=1513707859&sr=8-1&keywords=a+million+miles+in+a+thousand+years+by+donald+miller) - This author's memoir became a movie. In rewriting his life to be a good movie, he discovered a better way to live life - like a character in an epic tale. It delves into how to tell a story and how to apply those principals to live a better story with your life.
+- https://www.youtube.com/watch?v=vpjVgF5JDq8
+- https://www.youtube.com/watch?v=PVfd6fg7QsM
+- https://www.youtube.com/watch?v=jZxLsDkvkVQ
+- https://www.youtube.com/watch?v=Iwpi1Lm6dFo
