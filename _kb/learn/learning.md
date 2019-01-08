@@ -193,3 +193,5 @@ Understand andbagree with belief theoretically then reinforce with experience
 Inner/outer game/learning - Actions < Habits < Beliefs
 
 Helps to have existing models to be able to reference to input information more easily (this is likely why people have preferred learning styles because they have better models for these things)
+
+- think about something before reading about it. "It is dangerous to read about a subject before we have thought about it ourselves.... When we read, another person thinks for us; we merely repeat his mental process.... So it comes about that if anyone spends almost the whole day in reading,... he gradually loses the capacity for thinking"
