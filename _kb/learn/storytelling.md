@@ -68,21 +68,24 @@ High Level
 3. Return - traverses back to the ordinary world with treasure for benefit of fellow man (hero is transformed by adventure and has power over both worlds)
 
 In Depth (Campbell)
-1. Departure
+
+    Departure
   1. Call to adventure - the hero, living in normality, receives information to head off into the unknown
   2. Refusal of the call - often the hero initially refuses the call (possibly from duty, fear, insecurity, ...)
   3. Meeting the Mentor (Supernatural aid) - guide appears (often supernatural) and frequently gives hero artifacts for his/her quest
   4. Crossing the threshold - hero leaves own world and ventures into dangerous realm with unknown rules and limits
   5. Belly of the whale - the final separation from the hero's known world and self, showing a willingness to undergo metamorphosis (and initially encountering a minor danger) ("The hero, instead of conquering or conciliating the power of the threshold, is swallowed into the unknown and would appear to have died.")
-2. Initiation
-  1. The road of trials - a series of tests for the hero to overcome (usually in sets of 3; hero often fails one or more tests)
+
+    Initiation
+  6. The road of trials - a series of tests for the hero to overcome (usually in sets of 3; hero often fails one or more tests)
   7. The meeting with the goddess
   8. Woman as temptress
   9. Atonement with the father
   10. Apotheosis
   11. The ultimate boon
-3. Return
-  1. Refusal of the return
+
+    Return
+  12. Refusal of the return
   13. The magic flight
   14. Rescue from without
   15. The crossing of the return threshold
