@@ -25,6 +25,10 @@ Async = great for assignments and one way comm
 - Emotion - what does the other person want/need? What is their current narrative?
 - Content - what information needs to be conveyed? How does it need to be conveyed?
 
+Deliver bad news first
+
+Split the content for professional and personal
+
 ## Trust Quotient
 Trust = (Credibility + Reliability + Intimacy) / Self Orientation
 
