@@ -19,3 +19,12 @@ See kb/learn/recovery
 - Tendons/Ligaments
 - Muscles (Strength)
 - Muscles (Endurance)
+
+
+## Things to recover
+- Muscles
+- CNS
+- Hydration / nutrition
+- From Fatigue
+- Temperature
+- ...
