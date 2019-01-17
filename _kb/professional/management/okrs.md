@@ -1,5 +1,5 @@
 ---
-title: OKR Goal Setting
+title: Objectives and Key Results
 ---
 
 INPUT
