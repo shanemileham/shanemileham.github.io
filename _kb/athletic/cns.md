@@ -6,7 +6,18 @@ title: Central Nervous System
 
 ## CNS Fatigue
 
+### Wikipedia
+https://en.wikipedia.org/wiki/Central_nervous_system_fatigue
+
+
+
 ### https://mennohenselmans.com/cns-fatigue/
+
+1. Low intensity / high duration >> more CNS fatigue
+2. Amount of musculature involved barely relates to CNS fatigue
+3. It only takes minutes to recover
+
+
 If you tear a hamstring, that won’t inherently affect your quadriceps. In contrast, CNS fatigue can affect your entire body.
 
 
@@ -28,3 +39,14 @@ CNS recovers within minutes
 
 
 CNS Fatigue >> injury
+
+
+CNS Fatigue >> bad balance >> inefficient motion
+
+
+?? Verify - The nervous system uses about 20% of the bodies available glucose and oxygen, that fact alone tells just how important it is in strength work. Without the CNS nothing happens.
+
+
+### How to recover
+Sleep
+psychological healing
