@@ -1,7 +1,7 @@
 
 OVERVIEW OF MY PLAN AND AXIOMS
 
-## Beliefs
+## Beliefs / Hypotheses
 - Strength before endurance
 - Balance before strength
 - He who recovers faster iterates faster
@@ -13,3 +13,9 @@ OVERVIEW OF MY PLAN AND AXIOMS
 Stress in area of life hinders recovery. Become capable in every area so you don't have unplanned nonrecovery.
 
 See kb/learn/recovery
+
+## Things to stress
+- CNS / Balance
+- Tendons/Ligaments
+- Muscles (Strength)
+- Muscles (Endurance)
