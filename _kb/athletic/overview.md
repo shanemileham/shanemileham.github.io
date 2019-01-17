@@ -14,17 +14,14 @@ Stress in area of life hinders recovery. Become capable in every area so you don
 
 See kb/learn/recovery
 
-## Things to stress
-- CNS / Balance
-- Tendons/Ligaments
-- Muscles (Strength)
-- Muscles (Endurance)
+## To Stress - What systems do I train?
+- Neural (Coordination/Balance)
+- Strength (functional)
+- Endurance (functional)
+- Metabolic
 
-
-## Things to recover
-- Muscles
-- CNS
-- Hydration / nutrition
-- From Fatigue
-- Temperature
-- ...
+## To Recover (Weak Links) - What prevents me from continuing to train?
+- Muscles tired. Strength or endurance.
+- Muscles shaking.
+- Not enough air.
+- Insufficient nutrients
