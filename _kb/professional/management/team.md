@@ -2,7 +2,7 @@
 title: Teams
 ---
 
-Individual reasoning and talent contribute far less to team success than one might expect. 
+Individual reasoning and talent contribute far less to team success than one might expect.
 
 The data also reveal, at a higher level, that successful teams share several defining characteristics:
 1. Everyone on the team talks and listens in roughly equal measure, keeping contributions short and sweet.

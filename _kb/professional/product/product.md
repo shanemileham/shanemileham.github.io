@@ -41,8 +41,8 @@ Agile [values](https://agilemanifesto.org/)
 - [Product School - The Product Book ](https://www.productschool.com/the-product-book/)([PDF](https://drive.google.com/open?id=1pYk_Zu5r72oMipFylsCQ0ii1FiS_GKZq))
 - [Product School - Launch](https://www.productschool.com/launch-book/) ([PDF](https://drive.google.com/open?id=1fjvtxK18K9qz5RmcXjS6I1_y2ZXsXA8D))
 - [Product School - Ship It](https://www.productschool.com/ship-it-book/) ([PDF](https://drive.google.com/open?id=1JWN2jpf7WRHDXqbCejOjPTpTUG6VDTLz)) ([ePub](https://drive.google.com/open?id=10UhwYgLq4rTMX1LDyLREzi2nboXM8tCx))
-
 - [History of PM](https://www.mindtheproduct.com/2015/10/history-evolution-product-management/)
+- https://www.aha.io/roadmapping/guide
 
 ## Input
 - https://agilemanifesto.org/principles.html

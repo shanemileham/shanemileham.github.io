@@ -37,3 +37,8 @@ How to alter each
 - Reliability >>
 - Intimacy >>
 - -Self Orientation >>
+
+INPUT
+- https://trustedadvisor.com/why-trust-matters/understanding-trust/the-trust-quotient-and-the-science-behind-it
+- https://trustedadvisor.com/public/2017_TA_Whitepaper_Think_Again_Special.pdf
+- https://trustedadvisor.com/

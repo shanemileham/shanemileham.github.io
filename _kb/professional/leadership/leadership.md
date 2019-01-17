@@ -63,5 +63,7 @@ Leaders should know who the evangelists are, how they communicate it, and how th
 - Ask friends
 - What do top leaders believe?
 - http://wiki.c2.com/?WhatIsLeadership
-- https://billmoyers.com/content/how-to-tell-your-story-of-self/
-
+- Story of Self
+  - https://billmoyers.com/content/how-to-tell-your-story-of-self/
+  - http://www.welcomingrefugees.org/sites/default/files/documents/resources/Public%20Story%20Worksheet07Ganz.pdf
+  - https://workingnarratives.org/article/public-narrative/

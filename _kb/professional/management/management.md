@@ -116,4 +116,5 @@ For a given person you need something from, learn their world:
 
 ## Input
 - https://rework.withgoogle.com/guides/
+- https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/determine-what-makes-a-great-manager/
 - What do top managers believe?

@@ -1,7 +1,7 @@
 ---
 title: Storytelling
 ---
-    
+
 {% include toc %}
 
 ## Storytelling Overview
@@ -95,6 +95,13 @@ In Depth (Campbell)
     17. Freedom to live
 
 
+INPUT
+- Wikipedia
+- http://www.sfcenter.ku.edu/Workshop-stuff/Campbell-Myth-quest.gif
+- https://velocitypartners.com/blog/why-customer-journey-is-a-heros-journey/
+- http://saravalentine.net/where-are-you-in-your-heros-journey/
+- https://www.incrediblemarketing.com/the-heros-journey-guide-to-creating-irresistible-patient-testimonials/
+- https://tvtropes.org/pmwiki/pmwiki.php/Main/TheHerosJourney
 
 Read more about the Hero's Journey on [Wikipedia](https://en.wikipedia.org/wiki/Hero%27s_journey)
 

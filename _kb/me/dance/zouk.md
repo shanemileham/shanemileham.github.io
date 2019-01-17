@@ -87,7 +87,7 @@ Feet
 
 Lateral
 - Ball of foot push off same
-- No arms, all from motion of check
+- No arms, all from motion of chest
 - Hips in neutral the whole time
 - Don't over cross. Connect chest direction to hips and foot.
 - Lateral back to basic. Simple version. Catch shoulder, then create rubber band on the quick quick. She comes in on the slow.
@@ -111,4 +111,4 @@ Lateral to lunge is restep on the right (facing the new direction) followed by q
 
 
 ## Workshop in Rio
-Impulse. Control. Grounding.
+Impulse. Control. Grounding/Tension.
