@@ -108,3 +108,7 @@ Three options out of lunge:
 Timing on feet for lunge is quick and quick, not quick quick.
 
 Lateral to lunge is restep on the right (facing the new direction) followed by quick and quick.
+
+
+## Workshop in Rio
+Impulse. Control. Grounding.
