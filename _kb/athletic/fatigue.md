@@ -57,7 +57,10 @@ Causes
 
 
 
-INPUT https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5133051/
+INPUT
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5133051/
+- https://en.wikipedia.org/wiki/Central_nervous_system_fatigue
+- https://www.t-nation.com/training/12-tips-to-tune-the-nervous-system
 
 Post-exercise: Fatigue will almost always be present to some degree and this degree will be variable depending on multiple factors.
 Following heavy training: There will most likely be some level of neural fatigue, but to claim it’s all focused around “CNS Fatigue” may be too broad/overreaching.
