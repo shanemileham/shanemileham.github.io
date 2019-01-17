@@ -33,6 +33,8 @@ Agile [values](https://agilemanifesto.org/)
 
 [Agile Principles](https://agilemanifesto.org/principles.html)
 
+## Prioritization
+- RICE (https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers)
 
 ## Resources
 - Cracking the PM Interview
