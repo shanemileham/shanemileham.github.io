@@ -6,12 +6,22 @@ title: Storytelling
 
 ## Storytelling Overview
 
+"In the end we're all stories" - Dr who River
+
+
+
 - What is a story?
 - Why are you telling a story? To whom? What do they want?
 - What makes a story interesting/memorable?
 - What questions can you ask to make someone else's story memorable?
 
 “Think of a moment in which your own failures led to success in your career, or a lesson that a parent or mentor imparted,” says Sachs. “Any of these things can be interesting emotional entry points to a story.”
+
+
+Any mythology worth remembering will be global in scope. The earth is our home and humankind is our family.
+
+Myths have been around for much longer than you. Although you may make and extend stories, the ones that last have done so because they resonate and have meaning for many people, perhaps different meaning in subtle ways for each person. If you can explore the process of understanding in each person then your power and your stories can only grow.
+
 
 
 ### Notes from TED Talk by Andrew Stanton
@@ -105,6 +115,26 @@ INPUT
 
 Read more about the Hero's Journey on [Wikipedia](https://en.wikipedia.org/wiki/Hero%27s_journey)
 
+
+### 8 Part Version
+https://www.youtube.com/watch?v=LuD2Aa0zFiA
+
+Life has rhythm
+- life<>death
+- consciousness<>unconsciousness
+- order<>chaos
+
+
+1. YOU - A character is in a zone of comfort
+2. NEED - They want something
+3. GO - They enter an unfamiliar situation
+4. SEARCH - Adapt to it (the road of trials)
+5. FIND - Get what they wanted (Meeting with the Goddess)
+6. TAKE - Pay a heavy price for it (Meet your Maker)
+7. RETURN - Then return to their familiar situation (Bringing it Home) "It's not a journey if you never come back"
+8. CHANGE - Having changed (Master of Both Worlds)
+
+Goes for characters, tone, theme
 
 
 ### The Pitch
