@@ -6,13 +6,14 @@ title: Storytelling
 
 ## Storytelling Overview
 
-"In the end we're all stories" - Dr who River
+"We're all stories in the end. Just make it a good one." -River Song
 
 Anything can be a story. But it should be a story that we want to tell, or a story that someone wants to hear. Often we want it to be both and at scale.
 
-What kind of stories do you want to tell? Depends on your intention. Could be self-focused
-- Ego - tell something cool you did
-- ...
+What kind of stories do you want to tell? Depends on your intention. Some reasons are:
+- Telling it makes you feel good
+- You want to convey information
+- You want to evoke emotion
 
 Or someone might gain something from listening to a story
 - Realize something similar going on in their life and learn
