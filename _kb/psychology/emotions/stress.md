@@ -114,6 +114,9 @@ FYI the typical definition of "Hardiness" includes the beliefs of
 
 
 ## INPUT
+- https://en.wikipedia.org/wiki/Coping_(psychology)
 - [General Adaptation Syndrome](https://en.wikipedia.org/wiki/Stress_(biology)#General_adaptation_syndrome)
 - [Stress Theory - Conservation of Resources](https://en.wikipedia.org/wiki/Conservation_of_resources_theory)
 - [Psychological Stress](https://en.wikipedia.org/wiki/Psychological_stress)
+- https://en.wikipedia.org/wiki/Fight-or-flight_response
+- https://en.wikipedia.org/wiki/Psychological_resilience
