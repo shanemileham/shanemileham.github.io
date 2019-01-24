@@ -39,19 +39,43 @@ Stress can therefore be managed by
 
 ### Perceive the stressor as non-dangerous
 
-stress may not be a stressor if the person does not perceive the stressor as a threat but rather as positive or even challenging
+"stress may not be a stressor if the person does not perceive the stressor as a threat but rather as positive or even challenging"
+
+Believe the stressor is
+- Irrelevant
+  - This stressor can't cause me harm
+  - This stressor really isn't that harmful
+- Challenging
+  - This stressor has a purpose in my life
+  - This stressor is part of a bigger story
+  - This stressor is an opportunity
+  - This stressor will make me better
+  - I chose this stressor
+
+Tasks
+- Set the event into a broader perspective in which it does not seem so threatening
+- Tim Ferris' fear exercise
+- See what advantage lies in the challenge, what opportunity for growth
 
 ### Perceive resources as sufficient
 
-Beliefs
-- {{see hardiness}}
 
-Time management
-Planning and decision making
+- Time management
+- Planning and decision making
+
+
+
+FYI the typical definition of "Hardiness" includes the beliefs of
+- Commitment (a tendency to involve oneself in activities in life and as having a genuine interest in and curiosity about the surrounding world (activities, things, other people))
+- Control (a tendency to believe and act as if one can influence the events taking place around oneself through one’s own efforts)
+- Challenge (the belief that change, rather than stability, is the normal mode of life and constitutes motivating opportunities for personal growth rather than threats to security)
+
 
 ### Gain more resources
 
-- Improve mental/physiological state
+- Improve coping ability
+  - Learn necessary skills to remove the stressors (planning, time management, conflict resolution, ...)
+- Improve mental/physiological state ("feel better")
   - [Autogenic Training](https://en.wikipedia.org/wiki/Autogenic_training)
   - Social activity
   - Cognitive therapy
@@ -76,7 +100,7 @@ Planning and decision making
   - Stress balls
   - Spending quality time with pets
 - Nootropics
--
+
 
 ### Remove the stressor(s)
 - Identify the stressor(s)
@@ -84,14 +108,12 @@ Planning and decision making
 
 
 
-
-
 ## Resources
 - [Stress Management](https://en.wikipedia.org/wiki/Stress_management)
+- [Hardiness](https://en.wikipedia.org/wiki/Hardiness_(psychological))
 
 
 ## INPUT
 - [General Adaptation Syndrome](https://en.wikipedia.org/wiki/Stress_(biology)#General_adaptation_syndrome)
 - [Stress Theory - Conservation of Resources](https://en.wikipedia.org/wiki/Conservation_of_resources_theory)
 - [Psychological Stress](https://en.wikipedia.org/wiki/Psychological_stress)
-- [Hardiness](https://en.wikipedia.org/wiki/Hardiness_(psychological))
