@@ -2,6 +2,11 @@
 title: Interview
 ---
 
+## Notes
+Interview are great ways to get to know people and connect as human beings. Separately, they are great for evaluation. Regardless of how a person does, you can still have a wonderful conversation with them.
+
+Remember that a "hell yes" candidate can have a huge impact, much more than a regular "yes" candidate, so make sure you emphatically back the person or let them know otherwise and why.
+
 ## Structure
 _Ensure good space for having a chat, etc._
 - Introduction
@@ -23,14 +28,20 @@ _Ensure good space for having a chat, etc._
   - Inform candidate of next steps and timeline
 
 ## Qualities to look for
-- Culture match
+- Culture match / vision alignment
 - Growth mindset
 - Transparency/communication
 - Polymathic approach
 - Logical/Analytic/Creative thinking
 - Empathy
 - Strategic insight (do they get the vision?)
-- Passion/fight (e.g. How do you respond to adversity?)
+- Passion/fire (e.g. How do you respond to adversity?)
+- Genius (Tell me something about my company I've never heard before)
+- Initiative
+
+And of course
+- Ability to execute the job specifications
+
 
 ## Questions
 - How did you hear about X? Why are you interested in X? What do you want to get out of it? (motivation)
