@@ -2,6 +2,17 @@
 title: Communication
 ---
 
+## Useful Communication Patterns
+- Information transmission (includes Frame)
+  - Summary >> In depth >> Summary
+  - Intention >> Situation >> Action >> Information
+- Problem solving
+  - Problem >> Solution
+- Request
+  - Context >> Problem >> Solution >> Request
+
+Handle emotions (fears, understanding, ...), then information
+
 ## Alignment
 TODO
 
@@ -25,9 +36,12 @@ Async = great for assignments and one way comm
 - Emotion - what does the other person want/need? What is their current narrative?
 - Content - what information needs to be conveyed? How does it need to be conveyed?
 
-Deliver bad news first
+Tips
+- Deliver bad news first
+- Split the content for professional and personal
 
-Split the content for professional and personal
+
+
 
 ## Trust Quotient
 Trust = (Credibility + Reliability + Intimacy) / Self Orientation
@@ -42,3 +56,4 @@ INPUT
 - https://trustedadvisor.com/why-trust-matters/understanding-trust/the-trust-quotient-and-the-science-behind-it
 - https://trustedadvisor.com/public/2017_TA_Whitepaper_Think_Again_Special.pdf
 - https://trustedadvisor.com/
+- People often need to vocalize something to feel like they own it (even if nothing was added from them saying it)
