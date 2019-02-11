@@ -4,16 +4,38 @@ title: Interview
 
 ## Structure
 _Ensure good space for having a chat, etc._
-- Introduce myself and my experience
-- Casual chat about their day/week
-- Ask questions below
-- Give live feedback to candidate
-- Inform candidate of next steps and timeline
-- Incorporate feedback in this process
+- Introduction
+  - Introduce myself and my experience
+  - Casual chat about their day/week
+  - Find middle ground (what they know about the company/opportunity)
+- Sell
+  - Current experience
+  - Desired experience
+  - Enemy (what abstract thing they want to vanquish in their life)
+  - Promised land (connect to opportunity)
+- Question intermission
+- Evaluation Questions
+  - Ask questions below
+- Closing
+  - Question intermission
+  - Give live feedback to candidate
+  - Request feedback on interview
+  - Inform candidate of next steps and timeline
+
+## Qualities to look for
+- Culture match
+- Growth mindset
+- Transparency/communication
+- Polymathic approach
+- Logical/Analytic/Creative thinking
+- Empathy
+- Strategic insight (do they get the vision?)
+- Passion/fight (e.g. How do you respond to adversity?)
 
 ## Questions
 - How did you hear about X? Why are you interested in X? What do you want to get out of it? (motivation)
-- Why you over other candidates? What do you bring that is unique? (differentiator)
+- "Absorb what is useful, reject what is useless, add what is essentially your own" -Bruce Lee. What do you bring that is essentially your own/unique?
+- Tell me something I've never heard before about my company
 - What kind of problems interest you? (making sure employee will stay)
 - What is X doing wrong? How would you fix it? (make sure they did their research and will bring strong ideas)
 - If you were CEO for a day at X, what would you do? (alternate version of above question)
@@ -21,3 +43,6 @@ _Ensure good space for having a chat, etc._
 - If you were to hire your foil, what would they be like?
 - What questions do you have for me?
 - What feedback do you have on this interview? What did you like? What would you change?
+
+## TODO
+- Input INV questions to dive deeper
