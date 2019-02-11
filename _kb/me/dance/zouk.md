@@ -112,3 +112,10 @@ Lateral to lunge is restep on the right (facing the new direction) followed by q
 
 ## Workshop in Rio
 Impulse. Control. Grounding/Tension.
+
+## 20190117 - Shani
+Gostosinho - connection from hip, belly, chest... wave of energy (can reverse it)
+
+## 20190118 - Shani
+Boomerang/Bonus
+{{video}}
