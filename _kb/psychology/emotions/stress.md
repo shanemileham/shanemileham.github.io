@@ -53,6 +53,8 @@ Believe the stressor is
   - I chose this stressor
 
 Tasks
+- Don't take life too seriously :)
+- Find peace in the chaos
 - Set the event into a broader perspective in which it does not seem so threatening
 - Tim Ferris' fear exercise
 - See what advantage lies in the challenge, what opportunity for growth
@@ -120,3 +122,10 @@ FYI the typical definition of "Hardiness" includes the beliefs of
 - [Psychological Stress](https://en.wikipedia.org/wiki/Psychological_stress)
 - https://en.wikipedia.org/wiki/Fight-or-flight_response
 - https://en.wikipedia.org/wiki/Psychological_resilience
+
+Philosophy
+- There will always be more to do.
+- There will always be ways to improve the world.
+- There are always potential losses.
+- But that doesn't mean you have to fear the losses and succumb to reactive action.
+- Accept there will be losses. Trust you can handle them. Focus on what you're grateful for. And act with purpose on what and whom you care about. 
