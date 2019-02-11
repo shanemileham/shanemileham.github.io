@@ -2,6 +2,8 @@
 title: Management
 ---
 
+Also see Leadership (different, but very related)
+
 ## Responsibilities
 - Hiring
 - Training
