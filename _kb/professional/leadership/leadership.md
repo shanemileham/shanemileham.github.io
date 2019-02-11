@@ -25,6 +25,7 @@ Top Level
 - Communicate that vision so that people will want to follow
 - Establish the path and steps from the present to the future vision
 - Create alignment and balance between the conflicting interests of the followers
+- Convey expectations of what each person is going to experience along the journey
 
 Other possible actionables
 - Significant
