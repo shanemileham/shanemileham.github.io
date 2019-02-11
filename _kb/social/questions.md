@@ -102,6 +102,8 @@ Putting your attention on someone with genuinely interested questions allows the
 
 ## INPUT
 
+For old friend: What have you learned since we last talked?
+
 Important Things Learned
 "What's the most unexpected thing you've learned along the way?"
 "If you could call yourself five years ago and had 30 seconds, what would you say?"
