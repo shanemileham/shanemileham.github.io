@@ -10,3 +10,5 @@ Questions to ask self:
 - Do I want to be the person who did X or Y? Do I want to be the person in the future who has a history of doing hard action X?
 
 Anticipate excuses and plan for them
+
+Don't start a task until you're set up and won't be distracted by anything and promise to get through all of it at once
