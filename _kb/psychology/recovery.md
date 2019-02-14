@@ -38,3 +38,6 @@ Meditation improves recovery
 - https://en.wikipedia.org/wiki/Healing
 - https://en.wikipedia.org/wiki/Mental_health#Modern_Methods_of_Treatment
 - https://en.wikipedia.org/wiki/Stress_(biology)#General_adaptation_syndrome
+
+## TODO Input
+- Reset document
