@@ -123,9 +123,16 @@ FYI the typical definition of "Hardiness" includes the beliefs of
 - https://en.wikipedia.org/wiki/Fight-or-flight_response
 - https://en.wikipedia.org/wiki/Psychological_resilience
 
-Philosophy
-- There will always be more to do.
-- There will always be ways to improve the world.
-- There are always potential losses.
-- But that doesn't mean you have to fear the losses and succumb to reactive action.
-- Accept there will be losses. Trust you can handle them. Focus on what you're grateful for. And act with purpose on what and whom you care about. 
+There will always be more to do.
+There will always be ways to improve the world.
+There are always potential losses.
+But that doesn't mean you have to fear the losses and succumb to reactive action.
+Accept there will be losses. Trust you can handle them. Focus on what you're grateful for. And act with purpose on what and whom you care about.
+
+
+Strive for the best case
+Still be excited for the worst case
+Over no change (current state)
+But know you're still fine in current state
+
+Pull motivation vs push (stress)
