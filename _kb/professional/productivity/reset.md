@@ -2,23 +2,17 @@
 title: Reset
 ---
 
-## Reset things
-- Motivation
-- Movement
-- Food
-- Sleep
-- Meditation
-
-
 ## Reset routine
 Pomodoro sessions split by
 - Record
+- Plan
+- Notifications
+- Refuel
 - Move
 - Meditate
-- Food
 - (Nap)
-- Social
-- Music (brain.fm)
+- Focus (Music/brain.fm, phone on DND, ...)
+
 
 ## Hard Reset
 - Change environment - Go for a run / go to a new place
