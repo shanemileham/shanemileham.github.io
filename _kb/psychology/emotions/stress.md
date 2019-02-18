@@ -1,14 +1,13 @@
 ---
-title: Stress
+title: Psychological Stress
 ---
 
 ## Definition
 
-Stress occurs when a person perceives they have insufficient resources (coping ability) to handle a perceived dangerous stressor (or set of stressors).
+Psychological Stress occurs when a person perceives they have insufficient resources (coping ability) to handle a perceived dangerous stressor (or set of stressors).
 
 
 ![Transactional Model of Stress](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Transactional_Model_of_Stress_and_Coping_-_Richard_Lazarus.svg/440px-Transactional_Model_of_Stress_and_Coping_-_Richard_Lazarus.svg.png)
-
 
 
 External Examples: {Conflicts in company, The way employees are treated by their bosses/supervisors or company, Lack of job security, Company policies, Co-workers who don't do their fair share, Unclear expectations, Poor communication, Not enough control over assignments, Inadequate pay or benefits, Urgent deadlines, Too much work, Long hours, Uncomfortable physical conditions, Relationship conflicts, Co-workers making careless mistakes, Dealing with rude customers, Lack of co-operation, How the company treats co-workers, ...}
@@ -112,7 +111,7 @@ FYI the typical definition of "Hardiness" includes the beliefs of
 
 ## Resources
 - [Stress Management](https://en.wikipedia.org/wiki/Stress_management)
-- [Hardiness](https://en.wikipedia.org/wiki/Hardiness_(psychological))
+- [Hardiness](https://en.wikipedia.org/wiki/Hardiness_(psychological)
 
 
 ## INPUT
@@ -136,3 +135,9 @@ Over no change (current state)
 But know you're still fine in current state
 
 Pull motivation vs push (stress)
+
+Retirement (laying on the beach) WILL make you bored (see flow state diagram)
+
+Flow state relation
+
+Flow states --> Recover then stress
