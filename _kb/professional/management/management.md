@@ -120,3 +120,7 @@ For a given person you need something from, learn their world:
 - https://rework.withgoogle.com/guides/
 - https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/determine-what-makes-a-great-manager/
 - What do top managers believe?
+
+Management += don't just make it possible to succeed; make it impossible to fail
+
+Management += derisking = planning and overcoming psych biases --> Rationality
