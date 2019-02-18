@@ -1,3 +1,0 @@
-
-
-questions to ask yourself
