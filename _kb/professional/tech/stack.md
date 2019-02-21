@@ -18,6 +18,9 @@ Stack and Learning
   - Zenhub (no app) / Github issues (completely extensible, safe)
   - Jira?
   - Trello / Mesh
+- Static site
+  - Jekyll
+  - [Netlify](https://github.com/netlify/netlify-cms)
 - Analytics
   - Heap Analytics
   - Google Analytics / Google Tag Manager
