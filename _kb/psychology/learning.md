@@ -196,3 +196,19 @@ Helps to have existing models to be able to reference to input information more 
 
 - think about something before reading about it. "It is dangerous to read about a subject before we have thought about it ourselves.... When we read, another person thinks for us; we merely repeat his mental process.... So it comes about that if anyone spends almost the whole day in reading,... he gradually loses the capacity for thinking" - Schopenhauer! It’s from this great book called story of Philosophy, definitely recommend giving it a read, although it exclusively focuses on Western philosophers ~ https://www.goodreads.com/book/show/31795.The_Story_of_Philosophy
 - You only prove things through direct experience. And that experience disproves any axioms that say that experience is impossible. The rest of science deals with probabilities and correlation and causation
+
+- You learn most from what you teach others, and close from what you do (add learning pyramid by William Glasser)
+  - 5% of what they learn when they’ve learned from a lecture.
+  - 10% of what they learn when they’ve learned from reading.
+  - 20% of what they learn from audio-visual.
+  - 30% of what they learn when they see a demonstration.
+  - 50% of what they learn when engaged in a group discussion.
+  - 75% of what they learn when they practice what they learned.
+  - 90% of what they learn when they teach someone else to use the information immediately.
+
+- Beginner's mind - attitude of openness, eagerness, vulnerability, humility, curiosity, embracing fear. Don't assume you're an expert.
+- Deliberate Learning - Systematic approach; start with end in mind.
+- Know what not to learn.
+- Don't multi-task
+
+- Mapping existing mental models - connect what you're learning with something you already know about
