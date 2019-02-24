@@ -19,3 +19,9 @@ Events are independent of meaning. Can apply meaning later.
   - Story (context) one: I hate singing, have an important meeting tomorrow, and now I won't get good sleep and things will go badly
   - Story (context) two: I thought I was alone on this island - there must be someone else!
   - Story (context) three: I love that whoever is singing has the courage to sing so openly; that's beautiful.
+
+
+Love the process, not just the result.
+
+
+People want freedom, but duty gives purpose
