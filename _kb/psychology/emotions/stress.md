@@ -41,9 +41,10 @@ Stress can therefore be managed by
 "stress may not be a stressor if the person does not perceive the stressor as a threat but rather as positive or even challenging"
 
 Believe the stressor is
-- Irrelevant
+- Irrelevant / not threatening
   - This stressor can't cause me harm
   - This stressor really isn't that harmful
+  - Be grateful for current circumstance
 - Challenging
   - This stressor has a purpose in my life
   - This stressor is part of a bigger story
@@ -141,3 +142,5 @@ Retirement (laying on the beach) WILL make you bored (see flow state diagram)
 Flow state relation
 
 Flow states --> Recover then stress
+
+Can you do anything about it? If yes, do so. If no, don't worry about it.
