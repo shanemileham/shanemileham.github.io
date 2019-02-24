@@ -175,6 +175,19 @@ Goes for characters, tone, theme
 - Proof that the Magic Wand will get people to the Promised Land
   - Testimonials, stats
 
+
+## Meaning
+Meaning for event is based on how you see it playing into the overall story.
+
+Positive storytelling skills are great for life.
+
+An event's meaning is unknown in that moment; it's based on perception of what's to come. Hearing someone say "uh oh" when playing with Legos will have a very different meaning for the same event than if they context is they're performing surgery. The sound waves hitting our eardrum may be the exact same, but our interpretation can differ drastically based on perceived threat or other context. See sound meditation.
+
+An event's meaning is clearer in hindsight, but the meaning again depends on what story is being told. From a personal perspective you can see how a moment led to a turning point in a relationship or career, and it can be more obvious. Other events are more subject to interpretation, and it's crucial to be able to tell stories to ourselves and others that give meaning to arbitrary events in our lives.
+
+Gratefulness ascribes positive meaning to past and current events. It's an element of positive self storytelling. 
+
+
 ## Resources
 - [Wikipedia: The Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey)
 - [TED Talk by David JP Philips: The magical science of storytelling](https://www.youtube.com/watch?v=Nj-hdQMa3uA)
@@ -194,4 +207,3 @@ Goes for characters, tone, theme
 - https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit
 - http://changingminds.org/techniques/story/story.htm
 - http://changingminds.org/explanations/identity/jung_archetypes.htm#ani
--
