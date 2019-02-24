@@ -162,3 +162,16 @@ If you have a document and you don't plan on doing anything with it, it's not us
 
 PRODUCTIVITY
 Information I/O
+
+---
+
+## INPUT Notes from mastermind
+- Delete social media apps on phone
+- Apps for removing newsfeed; self control apps
+- No notifications on phone (proactive instead of reactive; poll instead of push)
+- Leave admin tasks until evening
+- Have a WHY
+- Create right environment (quiet, clean desk, fresh air, ...)
+- Create nonnegotiatble deep work area
+- Mark Twain - eat a live frog first thing in the morning and nothing worse will happen for the rest of the day
+- Win the morning
