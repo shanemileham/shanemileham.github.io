@@ -83,6 +83,10 @@ _"A hero ventures forth from the world of common day into a region of supernatur
 
 "Heroism, after all, is contagious."
 
+![Custom Hero's Journey](http://www.sfcenter.ku.edu/Workshop-stuff/Campbell-Myth-quest.gif)
+![Wiki Hero's Journey](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Heroesjourney.svg/796px-Heroesjourney.svg.png)
+![Three act version](https://i.pinimg.com/564x/0d/89/e9/0d89e959cf224468cc6a83b5512c4859.jpg?b=t)
+
 High Level
 1. Departure - receives a call to adventure, is reluctant, but is helped by a mentor
 2. Initiation - traverses the threshold into the unknown, faces trials, overcomes the main obstacles/enemy, gains reward
@@ -130,6 +134,8 @@ Read more about the Hero's Journey on [Wikipedia](https://en.wikipedia.org/wiki/
 
 ### 8 Part Version
 https://www.youtube.com/watch?v=LuD2Aa0zFiA
+
+![Harmon Circle](https://cdn-images-1.medium.com/max/1200/1*pbvLSAz4yphmUKZ_ajJYnw.jpeg)
 
 Life has rhythm
 - life<>death
@@ -185,3 +191,7 @@ Goes for characters, tone, theme
 - https://www.youtube.com/watch?v=jZxLsDkvkVQ
 - https://www.youtube.com/watch?v=Iwpi1Lm6dFo
 - http://twinery.org/2/#!/welcome
+- https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit
+- http://changingminds.org/techniques/story/story.htm
+- http://changingminds.org/explanations/identity/jung_archetypes.htm#ani
+-
