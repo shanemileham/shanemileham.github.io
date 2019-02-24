@@ -117,3 +117,5 @@ For a given person you need something from, learn their world:
 Management += don't just make it possible to succeed; make it impossible to fail
 
 Management += derisking = planning and overcoming psych biases --> Rationality
+
+Context switching is expensive, especially for professions like engineering
