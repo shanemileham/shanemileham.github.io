@@ -57,3 +57,4 @@ INPUT
 - https://trustedadvisor.com/public/2017_TA_Whitepaper_Think_Again_Special.pdf
 - https://trustedadvisor.com/
 - People often need to vocalize something to feel like they own it (even if nothing was added from them saying it)
+- http://www.hemingwayapp.com/
