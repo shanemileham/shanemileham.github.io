@@ -6,6 +6,8 @@ title: Pitch Deck
 
 ## Slides to include in pitch deck
 
+### Frameworks
+
 The Story
 - The Shift
   - Start with a big, undeniable change that creates stakes. No matter what you’re selling, your most formidable obstacle is prospects’ adherence to the status quo. Your primary adversary, in other words, is a voice inside people’s heads that goes, We’ve gotten along just fine without it, and we’ll always be fine without it.
@@ -57,6 +59,18 @@ The Technicalities
 - Investment and use of funds
   - Round structure / Ask
   - How the money will be used
+
+## Example Slide set for Investors
+1. Title slide
+2. The Financial Stakes
+3. Market placement (2x2 Matrix)
+4. Company Explanation
+5. Video Explanation
+6. Proof
+7. Team Slide
+8. Financials
+9. Unit Economics
+10. Upcoming milestones, financings and ask
 
 
 ## Tasks
