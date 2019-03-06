@@ -38,6 +38,7 @@ _Ensure good space for having a chat, etc._
 - Passion/fire (e.g. How do you respond to adversity?)
 - Genius (Tell me something about my company I've never heard before)
 - Initiative
+- Stress management
 
 And of course
 - Ability to execute the job specifications
@@ -50,6 +51,7 @@ And of course
 - What kind of problems interest you? (making sure employee will stay)
 - What is X doing wrong? How would you fix it? (make sure they did their research and will bring strong ideas)
 - If you were CEO for a day at X, what would you do? (alternate version of above question)
+- How do you handle stress
 - If you were in my shoes right now interviewing you, what question should I ask you?
 - If you were to hire your foil, what would they be like?
 - What questions do you have for me?
