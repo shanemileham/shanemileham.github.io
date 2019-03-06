@@ -68,7 +68,7 @@ Toiletries - Hanging bag
 - Hair product - Bed Head wax and Suave men's paste
 - Manicure set - Swiss Clipper
 
-Duffel Bag - Nike Air Max Vapor
+Suitcase - Timbuk2 Copilot XL
 - Drawstring laundry bag
 - Underwear - Calvin Klein Steel Boxer Brief
 - Socks - Lululemon surge
@@ -78,6 +78,7 @@ Duffel Bag - Nike Air Max Vapor
 - Jeans - AE Stretch 29/30 Straight
 - Jackets / Sweatshirts
 - Nike sweatpants
+- Timberland shoes size 8 black and white
 
 Workout bag - Nike Jordan mini backpack
 - Gymnastic Rings - Evolutionize
