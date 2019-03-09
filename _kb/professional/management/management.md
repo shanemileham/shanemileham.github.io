@@ -119,3 +119,5 @@ Management += don't just make it possible to succeed; make it impossible to fail
 Management += derisking = planning and overcoming psych biases --> Rationality
 
 Context switching is expensive, especially for professions like engineering
+
+Prioritization happens better with more data. Giving someone more work or less time makes them focus on priorities and pushing back more.
