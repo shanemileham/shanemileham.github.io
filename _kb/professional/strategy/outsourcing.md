@@ -131,6 +131,44 @@ Decide if you want a generalist, specialist, project manager (who can sub-outsou
   - Purpose - Thank them, appreciate their work, and explain how much they have helped you
 - Ask for revisions or improvements, and give detailed constructive feedback
 
+## Templates
+If you're using upwork or similar to post, try these out
+
+### Initial Message
+
+I'm looking to hire, train and work with a new personal assistant for the long-term (3 months minimum and ideally permanently).
+
+The role requires flexibility in terms of hours of work per week and the hours will likely increase as time goes on.
+
+I will also be providing a number of trial tasks before awarding the role.
+
+You must have:
+- Good English
+- Great attention to detail
+- Experience using online platforms
+- Great organization
+- High responsiveness
+- A fun, bright personality!
+
+The role should be fun and I'll make sure to reward good work well!
+
+You will be asked to answer the following questions when submitting a proposal:
+- Do you have fluent English?
+- What timezone and country are you in?
+- What is your previous experience with related roles?
+- In your opinion, what are the three most important things that make a great personal assistant?
+
+### Follow up message
+
+Thanks for your message! I'd like to explore the possibility of working together. For the next step, please do the following and send to me:
+- Record and send the link to a loom video explaining more about your background and why you think you’re a good fit for the role: https://www.useloom.com/
+- Complete the trial task detailed here: {{Document}}
+
+Really looking forward to seeing them!
+
+### Third if no response
+Hey - just checking in and wondering if this role is still of interest to you? If so please just follow the above steps and we can chat soon. Thanks! I'm looking forward to speaking because your proposal was really great.
+
 
 ## Resources
 - [Lifestyle Engineering - The Ultimate Guide to Outsourcing](https://www.lifestyle.engineering/post/the-ultimate-guide-to-outsourcing)
