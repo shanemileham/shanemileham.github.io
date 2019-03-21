@@ -19,4 +19,4 @@ Hooked
 ![hooked canvas](https://i0.wp.com/2xecommerce.com/wp-content/uploads/2015/07/hookCanvasmethodology_nireyal.jpg)
 
 ## Resources
-![Hubspot academy](https://academy.hubspot.com/)
+[Hubspot academy](https://academy.hubspot.com/)
