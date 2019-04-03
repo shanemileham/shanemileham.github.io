@@ -4,6 +4,28 @@ title: Remote
 
 ## Summary
 
+Could remote working be for anyone?
+Anyone can do remote working. That doesn't mean all jobs can be remote of course. Jobs can range from tech, marketing, accounting, real estate, and more.
+
+How do you think this will impact the workforce?
+Moving towards a frictionless worldwide economy (see inv.tech 😉 ) will empower developing countries, encourage better communication in remote companies, and solve worldwide problems as the people who are most affected will have the power to solve their own problems. This will also encourage diversity of thinking (as remote companies spanning continents emerge) and worldwide empathy. So many more things too 🙂
+
+How do you see the future of remote working?
+INV product vision coming this week 😉 Everyone working in a global digital economy where they can sign on/off anytime and complete tasks for others. (Note the coasian friction which leads to organizational creation; this would minimize that).
+
+How are companies responding to it?
+Some are embracing worldwide talent sourcing, diversity of thinking, timezone advantages. Others aren't willing to put in the work and stay within their locale. Long term I believe companies who can master the advantages of diversity will win.
+
+What problems does it solve?
+Lifestyle >> no commute required (huge city benefits here, change to socialization structure, ...), ability to work while on the road or traveling, economic savings for workers, location independence (huge effects here for civilization), ...
+Business >> worldwide talent pool, best perk available, diversity of thinking and representation, no costs for building overhead, ...
+
+What problems does it have?
+Management >> https://github.com/shanemileham/shanemileham.github.io/blob/master/_kb/professional/management/remote.md
+Business >> communication needs to be next level (see above link), diversity of thinking requires/encourages better empathy
+
+What do you think, could remote working be a solution for crisis countries like Greece. If they make money online, spend it in greece, boosting economy.
+Absolutely. We almost targeted Greek workers for agents, but it wasn't quite the right economic fit yet. We have quite a few agents from Venezuela who are benefitting tremendously from this setup currently.
 
 ## Pros
 Pros of Remote
