@@ -19,3 +19,5 @@ A single principle system is effective, but like the art of war wisdom is knowin
 Good intention goes to bad outcome if naive, unaware, or acceptable risk.
 
 Expand-Contract repeat pattern
+
+Identity (from outward to inward) composed of = actions, thoughts, feelings, beliefs, memory/perception
