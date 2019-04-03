@@ -140,4 +140,3 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
 - Social:
   - Private lessons (Dance, singing, standup, ... via Thumbtack, etc.)
   - Events (dance, ...)
-  - Hostel hangouts
