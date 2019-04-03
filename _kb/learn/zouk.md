@@ -36,3 +36,4 @@ Rotisserie
 - China Soulzouk - https://www.facebook.com/ChinaSZSOULZOUK/
 - Bruno Galhardo & Raiza -https://www.facebook.com/brunogalhardoeraizaoficial/
 - Carlos and Fernanda - https://www.facebook.com/CarlosDaSilvaAndFernandaVitoria/
+- Lucas Oliveira - https://www.facebook.com/lucasoficial1
