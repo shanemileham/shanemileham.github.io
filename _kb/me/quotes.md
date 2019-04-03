@@ -99,3 +99,10 @@ Anything you can’t control is teaching you how to let go.
 The strongest steel is forged in fire.
 
 “As to methods there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble.” — Ralph Waldo Emerson
+
+
+"the part of you that is trying to improve you is the same part which needs improvement" hahaha
+
+Opponenheimer. "the whole world is going to hell. The only possible chance that it might not is that we do not prevent it from doing so."
+
+"let the fool persist in his follies so that he becomes wise"
