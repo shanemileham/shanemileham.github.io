@@ -52,9 +52,19 @@ How to alter each
 - Intimacy >>
 - -Self Orientation >>
 
-INPUT
+
+## Expressing a Concern
+One framework is
+- I have something to say about...
+- The way I see it...
+- The reason I say that is...
+- So that's why I say...
+
+
+## INPUT
 - https://trustedadvisor.com/why-trust-matters/understanding-trust/the-trust-quotient-and-the-science-behind-it
 - https://trustedadvisor.com/public/2017_TA_Whitepaper_Think_Again_Special.pdf
 - https://trustedadvisor.com/
 - People often need to vocalize something to feel like they own it (even if nothing was added from them saying it)
 - http://www.hemingwayapp.com/
+- Here're the facts. What would you do in my shoes?
