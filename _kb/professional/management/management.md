@@ -121,3 +121,35 @@ Management += derisking = planning and overcoming psych biases --> Rationality
 Context switching is expensive, especially for professions like engineering
 
 Prioritization happens better with more data. Giving someone more work or less time makes them focus on priorities and pushing back more.
+
+Tell me anything that's not on track (requires believability)
+
+Instead of saying "Tech Debt", explain it in terms of outcomes. Even metaphors of outcomes (leak in the boat... we can only sustain a few more, and eng hours are going to fix the leak) can help.
+
+
+Don't need perfect alignment. Can smooth over later. I am decision maker. Few things are multiple rp. Don't dilute authority.
+
+Tell people in advance the operating model.
+
+Frame as feedback not vote. A voice an vote are different.
+
+https://tomtunguz.com/disagree-and-commit/
+Disagree and commit - Look, I know we disagree on this but will you gamble with me on it? Disagree and commit?' By the time you're at this point, no one can know the answer for sure, and you'll probably get a quick yes."
+Let people feel heard. Even if we don't go with it.
+
+Things I can promise. To listen. To make decisions in best interest of company and team. Just make decisions and be okay with being wrong. Go fast.
+
+Serve them through expediency
+Alignment first. But sometimes expediency
+Don't need consensus
+Scale decision making
+
+
+Know motivation of each team member. SWOT, one pager, intrinsic motivators, vision diff, ...
+
+Understand people, projects, goal.
+
+
+Always have someone driving. If you care deeply about the outcome, that person is you.
+
+To client: set expectations of what they'll receive by when, even if the first thing they'll receive is a plan.
