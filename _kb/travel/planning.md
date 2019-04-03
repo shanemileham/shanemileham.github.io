@@ -131,29 +131,13 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
 
 ## CHECKLIST (Copy into Asana)
 - People:
-  - Message friends that I'm traveling
-  - Hit up common connectors (tag=`Connector`)
-- TODO:
-  - Mark places on google maps
+  - Message friends, network, and connectors that I'm traveling
 - Logistics:
   - Transportation there
-  - Decide what I want to be near (country, city, event)
-  - Find a place to live
+  - Find a place to live (Decide what I want to be near (country, city, event))
+  - Find place to work
+  - Find place to workout
 - Social:
-  - First degree connections
-  - Second degree connections
-  - Network connections
   - Private lessons (Dance, singing, standup, ... via Thumbtack, etc.)
-  - Dance events
+  - Events (dance, ...)
   - Hostel hangouts
-  - Working spaces
-- Things to do:
-  - Ask connections
-  - Google
-  - Airbnb Guides
-  - Airbnb Experiences
-  - Hotel tours/events
-  - Eventbrite
-  - Facebook Events
-  - Meetup
-- Run:
