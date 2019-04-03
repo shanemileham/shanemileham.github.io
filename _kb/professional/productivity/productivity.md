@@ -76,6 +76,12 @@ Of all the things you have to do, doing the highest leverage (most important)
 - See Management KB doc
 
 
+## Routines
+- Great way to use habits
+- Make sure they align with environment (too strict will fail in a changing environment)
+- Can be a great marker of overload (missing things if life gets too stressful)
+
+
 
 
 ---
