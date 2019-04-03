@@ -52,6 +52,7 @@ Largest risks
 
 stress is overall. be able to handle a lot of stress. then you can lower that stress and handle more physically.
 
+for functional strength, do plyos including trampoline
 
 
 See kb/learn/recovery
