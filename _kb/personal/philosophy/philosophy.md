@@ -1,6 +1,16 @@
 ---
-title: Life Philosophy
+title: Philosophy
 ---
+
+
+Things to include / touch upon
+- Metaphysical assumptions
+- Free will / determinism
+- Morality
+- ...
+
+
+
 
 Mistakes. Inspiration.
 
