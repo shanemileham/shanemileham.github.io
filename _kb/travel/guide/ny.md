@@ -4,6 +4,9 @@ title: New York City
 
 {% include toc %}
 
+## Places
+- Sunshine laundromat (Pinball speakeasy)
+
 ## Zouk
 Instructors:
 - Jessica Lamdon
