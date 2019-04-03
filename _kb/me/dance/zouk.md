@@ -119,3 +119,9 @@ Gostosinho - connection from hip, belly, chest... wave of energy (can reverse it
 ## 20190118 - Shani
 Boomerang/Bonus
 {{video}}
+
+## 20190316 - Lucas Oliveira
+- Energy and tension through the ground out to the arms
+- Hand connection higher up finger joints
+- CRAZY DANCE CONNECTION >> breathing, approach, ... 
+- Breathe from top down
