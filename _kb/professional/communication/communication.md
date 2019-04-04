@@ -13,6 +13,11 @@ title: Communication
 
 Handle emotions (fears, understanding, ...), then information
 
+## Types of info passing
+- FYI - Relevant information for a person based on something they are doing or would want to know
+- Question - Directed at a specific person or open to the group
+- Feedback - Feedback on an idea (be specific in what kind of feedback you want)
+
 ## Alignment
 TODO
 
