@@ -11,6 +11,9 @@ The data also reveal, at a higher level, that successful teams share several def
 4. Members carry on back-channel or side conversations within the team.
 5. Members periodically break, go exploring outside the team, and bring information back.
 
+## Culture fit
+- Everything in a person can be changed
+- Culture fit is "how little work do we have to do to get this person operating how we want them to?" including how they make others around them feel
 
 ## Resources
 
