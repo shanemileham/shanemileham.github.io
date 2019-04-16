@@ -106,3 +106,5 @@ The strongest steel is forged in fire.
 Opponenheimer. "the whole world is going to hell. The only possible chance that it might not is that we do not prevent it from doing so."
 
 "let the fool persist in his follies so that he becomes wise"
+
+"If you want to build a ship, don't gather the men and materials and tell them what to do. Instead give them a longing for the endless immensity of the sea."
