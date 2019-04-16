@@ -59,3 +59,9 @@ And of course
 
 ## TODO
 - Input INV questions to dive deeper
+
+## Fire/Genius/Beyond Box Checking
+What are fascinated with right now?
+Tell me something I've never heard before.
+What have you done that no one else has ever done before.
+What insight do you have that you don't think anyone else knows about or is using.
