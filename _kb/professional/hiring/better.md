@@ -4,6 +4,7 @@ title: Hiring
 
 ## Principles
 - Hire better than you
+- Hire people who raise the average of your entire company
 - Hire your devil's advocate
 
 ## Hiring Better Than You

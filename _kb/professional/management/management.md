@@ -153,3 +153,5 @@ Understand people, projects, goal.
 Always have someone driving. If you care deeply about the outcome, that person is you.
 
 To client: set expectations of what they'll receive by when, even if the first thing they'll receive is a plan.
+
+Grandparents rule >> grandparents give candy, parents give punishment
